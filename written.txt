@@ -1,0 +1,2012 @@
+ 1,
+      "product": {
+        "title": "Crayola Markers Broad Line 10ct Classic",
+        "link": "https://www.target.com/p/crayola-markers-broad-line-10ct-classic/-/A-14152241",
+        "tcin": "14152241",
+        "dpci": "081-04-0334",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "CRAYOLA MARKERS: 10 Count Crayola Broad Line Markers in Classic, Long Lasting Colors.",
+          "ARTS AND CRAFTS: Perfect for school supplies, kids arts and crafts, and more.",
+          "CLASSIC COLORS: These Crayola Markers contain vibrant colors that won't bleed through paper.",
+          "BROAD LINE MARKERS: Durable Markers are ideal for full-coverage coloring.",
+          "SAFE AND NONTOXIC: Tried and true classic markers are safe for ages 3 & Up."
+        ],
+        "rating": 4.9,
+        "ratings_total": 1676,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_9d24bb1d-eb8b-4500-9bfa-e333e597c76a",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_9d24bb1d-eb8b-4500-9bfa-e333e597c76a",
+          "https://target.scene7.com/is/image/Target/GUEST_c864e26f-942e-45bb-8800-1e321c843c99",
+          "https://target.scene7.com/is/image/Target/GUEST_dc09df75-1e5d-4152-b5ac-c2ad4f4aedf0",
+          "https://target.scene7.com/is/image/Target/GUEST_88212b27-9bd0-4df7-bfff-7b6810f4587b",
+          "https://target.scene7.com/is/image/Target/GUEST_776a3442-b536-420e-af1a-66d9499007ad"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.59,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.59,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       2,
+      "product": {
+        "title": "Crayola 10ct Washable Broad Line Markers - Classic Colors",
+        "link": "https://www.target.com/p/crayola-10ct-washable-broad-line-markers-classic-colors/-/A-15225908",
+        "tcin": "15225908",
+        "dpci": "081-04-3620",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "CRAYOLA MARKERS: Features 10 Ultra-Clean Markers in classic colors that are perfect for the classroom.",
+          "WASHABLE MARKERS: Crayola Washable Markers are now Ultra-Clean; washable from skin, clothing and now From painted walls.",
+          "SCHOOL SUPPLIES: A popular item on back-to-school lists for school projects, homework, and crafts.",
+          "THICK & THIN LINES: Broad line markers with conical tip allows kids to color with thick lines or draw with thin lines.",
+          "GENERAL NOTE: Packaging, contents, and colors may vary. We recommend retaining packaging for future reference."
+        ],
+        "rating": 4.8,
+        "ratings_total": 1350,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_54475765-cbe0-4354-a3e4-be0f68d0aefb",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_54475765-cbe0-4354-a3e4-be0f68d0aefb",
+          "https://target.scene7.com/is/image/Target/GUEST_64db52e8-c421-4bb0-90cb-708c7eb7f630",
+          "https://target.scene7.com/is/image/Target/GUEST_4ad2bd56-5f96-462b-8738-8a0f8b0f9b2e"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/5b184c284ead3a0001d05f96_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       3,
+      "product": {
+        "title": "Crayola 10ct Kids Fine Line Markers Classic Colors",
+        "link": "https://www.target.com/p/crayola-10ct-kids-fine-line-markers-classic-colors/-/A-14152244",
+        "tcin": "14152244",
+        "dpci": "081-04-0231",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "\u00b7 10ct Crayola Markers in Classic, Long-Lasting Colors.",
+          "\u00b7 Contain Vibrant Color that Won't Bleed Through.",
+          "\u00b7 Durable Fine Line Markers for Drawing.",
+          "\u00b7 Perfect Coloring Tools and School Supplies.",
+          "\u00b7 Safe and Nontoxic, Ages 3 & Up!"
+        ],
+        "rating": 4.8,
+        "ratings_total": 1033,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_1fab9f63-f109-4c34-bb80-e81f0ac5934c",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_1fab9f63-f109-4c34-bb80-e81f0ac5934c",
+          "https://target.scene7.com/is/image/Target/GUEST_903ea421-32ce-437f-9921-cab7afb61a9e",
+          "https://target.scene7.com/is/image/Target/GUEST_1a5cd2cd-7640-4479-9118-ad95e77157ee",
+          "https://target.scene7.com/is/image/Target/GUEST_7ba61bd8-4fac-4e34-bd79-385d3a6cb07c"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.59,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.59,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       4,
+      "product": {
+        "title": "10ct Washable Markers Broad Tip Classic Colors - Mondo Llama&#8482;",
+        "link": "https://www.target.com/p/10ct-washable-markers-broad-tip-classic-colors-mondo-llama-8482/-/A-81212666",
+        "tcin": "81212666",
+        "dpci": "081-04-7441",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Mondo Llama",
+        "brand_link": "https://www.target.com/b/mondo-llama/-/N-q643leml01z",
+        "feature_bullets": [
+          "Broad tip markers offer a wider streak",
+          "Features 10 colors from across the spectrum",
+          "Washes from skin, most washable clothes and most painted walls",
+          "Keep away from wallpaper, unfinished wood, vinyl, carpeting and other material that cannot be washed"
+        ],
+        "rating": 4.6,
+        "ratings_total": 1588,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_185da343-af51-4b9a-8056-69c7d6b6f2be",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_185da343-af51-4b9a-8056-69c7d6b6f2be",
+          "https://target.scene7.com/is/image/Target/GUEST_2f985b3a-ab0a-4ef2-a31b-e928f31103a4",
+          "https://target.scene7.com/is/image/Target/GUEST_ca24275d-0c37-417b-b36b-ef8ceb4b228d",
+          "https://target.scene7.com/is/image/Target/GUEST_d27de7ee-972d-48e9-a0b1-2fe49f0dcfc9",
+          "https://target.scene7.com/is/image/Target/GUEST_c31cb988-b70b-4443-8dd5-8caaba08c5cb"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_bc11f4c0-2428-4517-908c-802a3ea141a6_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.25,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.25,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       5,
+      "product": {
+        "title": "Expo 4pk Dry Erase Markers Chisel Tip Black",
+        "link": "https://www.target.com/p/expo-4pk-dry-erase-markers-chisel-tip-black/-/A-14395396",
+        "tcin": "14395396",
+        "dpci": "081-02-0655",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Expo",
+        "brand_link": "https://www.target.com/b/expo/-/N-56c8i",
+        "feature_bullets": [
+          "Versatile chisel tip allows for broad or fine writing",
+          "Low-odor ink formula erases cleanly and is ideal for classrooms, offices, and home offices",
+          "For optimal results, use on nonporous surfaces such as porcelain, melamine whiteboards, and glass",
+          "Consistent, skip-free marking in bold black color",
+          "Includes: 4 Black dry erase markers"
+        ],
+        "rating": 4.7,
+        "ratings_total": 943,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_bb41978b-7a80-4cd6-bba3-f0bbdc9fedac",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_bb41978b-7a80-4cd6-bba3-f0bbdc9fedac",
+          "https://target.scene7.com/is/image/Target/GUEST_398301b4-2d70-4a25-80c4-e84a52485d8f",
+          "https://target.scene7.com/is/image/Target/GUEST_c061822e-9562-4811-9a74-a7b6bbd59233",
+          "https://target.scene7.com/is/image/Target/GUEST_5e9f321d-7428-4883-884d-db039fa03460",
+          "https://target.scene7.com/is/image/Target/GUEST_a1e8f369-d651-4eab-95da-41618dee0e5f",
+          "https://target.scene7.com/is/image/Target/GUEST_4d58eb27-ecac-49f4-aa27-fda04ad8ebe7",
+          "https://target.scene7.com/is/image/Target/GUEST_9fc8bea8-ad32-4d22-bb66-42cd79943e78",
+          "https://target.scene7.com/is/image/Target/GUEST_2dd9d26b-92fb-4863-a12f-43eacd582f7a",
+          "https://target.scene7.com/is/image/Target/GUEST_c6451696-d036-4663-880c-2aa7384d9b1f"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_0b5b6fae-3e90-4b37-be13-75d2f644383f_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_04f75756-41cf-4871-a090-d4785aa79bc4_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       6,
+      "product": {
+        "title": "Sharpie 2pk Permanent Markers Fine Tip Black",
+        "link": "https://www.target.com/p/sharpie-2pk-permanent-markers-fine-tip-black/-/A-14790195",
+        "tcin": "14790195",
+        "dpci": "081-02-0590",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Proudly permanent ink marks on paper, plastic, metal, and most other surfaces",
+          "Intensely brilliant colors create eye-popping, vibrant impressions",
+          "Remarkably resilient ink dries quickly and resists fading and water; AP certified",
+          "Endlessly versatile fine tip makes impressively bold, detailed marks",
+          "Includes 2 black Sharpie permanent markers"
+        ],
+        "rating": 4.9,
+        "ratings_total": 1272,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_a157e9b4-23a4-4866-a805-b27271fa47da",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_a157e9b4-23a4-4866-a805-b27271fa47da",
+          "https://target.scene7.com/is/image/Target/GUEST_67de2d4d-383a-411f-afc1-82b7e47a58d3",
+          "https://target.scene7.com/is/image/Target/GUEST_5e5e5130-0690-42a0-8849-3dd77f11bd5a",
+          "https://target.scene7.com/is/image/Target/GUEST_2d8bef45-98b4-4be7-98a4-b61b3f300291",
+          "https://target.scene7.com/is/image/Target/GUEST_f68bac48-10f1-4814-9e1b-f36e9f4bde56",
+          "https://target.scene7.com/is/image/Target/GUEST_6543a767-0197-4bca-9044-000298d37b2b"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_44967733-7805-4ee8-adcf-b51fbeb6dcbc_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       7,
+      "product": {
+        "title": "10ct Markers Broad Tip Classic Colors - Mondo Llama&#8482;",
+        "link": "https://www.target.com/p/10ct-markers-broad-tip-classic-colors-mondo-llama-8482/-/A-81212669",
+        "tcin": "81212669",
+        "dpci": "081-04-7606",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Mondo Llama",
+        "brand_link": "https://www.target.com/b/mondo-llama/-/N-q643leml01z",
+        "feature_bullets": [
+          "10ct classic markers for drawing and coloring",
+          "Includes, pink, gray, black, brown, purple, blue, green, yellow, orange and red",
+          "2mm broad-tip design allows for making small lines and filling in larger areas",
+          "Great for coloring and activity books or freehand creations",
+          "Non-toxic ink and suitable for ages 3+"
+        ],
+        "rating": 4.6,
+        "ratings_total": 1118,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_53222811-0a5a-4c72-9321-e1df4c90b0a1",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_53222811-0a5a-4c72-9321-e1df4c90b0a1",
+          "https://target.scene7.com/is/image/Target/GUEST_07407ea0-9a44-487d-92f1-1b105c6051f6",
+          "https://target.scene7.com/is/image/Target/GUEST_68e3c061-96c4-4af0-8939-daf39fac06b9",
+          "https://target.scene7.com/is/image/Target/GUEST_efe0f1ce-ce9e-4218-8e68-8e46eb107e49",
+          "https://target.scene7.com/is/image/Target/GUEST_0e8cc657-058f-42f1-bcb8-19a5997e7787"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_ed942b7f-ffcf-46b2-8168-0858593f74e9_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.25,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.25,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       8,
+      "product": {
+        "title": "Sharpie 4pk Highlighters Smear Guard Chisel Tip Multicolored",
+        "link": "https://www.target.com/p/sharpie-4pk-highlighters-smear-guard-chisel-tip-multicolored/-/A-83529308",
+        "tcin": "83529308",
+        "dpci": "081-02-6496",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Sharpie Tank Highlighters with wide barrel and large ink supply that delivers dependable highlighting",
+          "Bright fluorescent ink stands out on the page",
+          "Narrow chisel tip great for highlighting, underlining, and writing notes",
+          "Resists smearing (let ink dry before highlighting)",
+          "Includes 4 assorted highlighters"
+        ],
+        "rating": 4.8,
+        "ratings_total": 413,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_08031594-100f-4830-b3cc-7ba81e0c9f20",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_08031594-100f-4830-b3cc-7ba81e0c9f20",
+          "https://target.scene7.com/is/image/Target/GUEST_b824adf8-26ef-47f4-be47-81ca14d098d6",
+          "https://target.scene7.com/is/image/Target/GUEST_d64bb962-3d6b-40c5-9c8b-d5e6be1ffcb7",
+          "https://target.scene7.com/is/image/Target/GUEST_6f9d9718-927b-4093-b5fa-036259f88020"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       9,
+      "product": {
+        "title": "BiC 5pk Highlighter Brite Liner Assorted",
+        "link": "https://www.target.com/p/bic-5pk-highlighter-brite-liner-assorted/-/A-83620041",
+        "tcin": "83620041",
+        "dpci": "081-02-8639",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "BiC",
+        "brand_link": "https://www.target.com/b/bic/-/N-5pteu",
+        "feature_bullets": [
+          "ACMI approved non-toxic",
+          "Colored and yellow highlighter won\u2019t dry out when left uncapped for 8 hours",
+          "These colored and yellow highlighters feature a chisel tip for broad highlighting and fine underlining",
+          "Includes 5 BIC Highlighters in an assortment of vibrantly bright, fluorescent ink colors"
+        ],
+        "rating": 4.8,
+        "ratings_total": 691,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_a85a94b8-259e-4e13-8135-d0051dd31bee",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_a85a94b8-259e-4e13-8135-d0051dd31bee",
+          "https://target.scene7.com/is/image/Target/GUEST_cef7b0a9-4d32-4b10-9954-16a41c42593d",
+          "https://target.scene7.com/is/image/Target/GUEST_0077f104-3229-430f-a147-c1942edca78e",
+          "https://target.scene7.com/is/image/Target/GUEST_d7f36bb1-6684-41b9-84b9-835d256d1250",
+          "https://target.scene7.com/is/image/Target/GUEST_dbca1a91-621b-4244-8a67-7524dbde487f",
+          "https://target.scene7.com/is/image/Target/GUEST_4eb58664-d937-4b1d-b522-efdc8c9dd0aa",
+          "https://target.scene7.com/is/image/Target/GUEST_a099567b-2a26-47e2-bc4c-261057c04b81",
+          "https://target.scene7.com/is/image/Target/GUEST_e125ab6b-3c1d-4f53-96f2-c44fe9025b46",
+          "https://target.scene7.com/is/image/Target/GUEST_f0f0422b-1a2e-45c2-aa8b-c4146b2e53a4"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_87f59bc4-69fc-4bdf-877d-88f4c98410bd_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.19,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.19,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       10,
+      "product": {
+        "title": "Crayola 10ct Kids Broadline Markers - Bold and Bright",
+        "link": "https://www.target.com/p/crayola-10ct-kids-broadline-markers-bold-and-bright/-/A-14152243",
+        "tcin": "14152243",
+        "dpci": "081-04-0331",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "Features 10 Crayola Markers in Bold & Bright Colors.",
+          "Colors Wash from Skin and Most Washable Clothing.",
+          "Broad Line Markers are Great for Drawing Thick, Clear Lines.",
+          "Bold & Bright Colors Offer Pops of Color to Your Artwork!",
+          "Safe & Nontoxic, Ages 4 & Up."
+        ],
+        "rating": 4.8,
+        "ratings_total": 808,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_76af1d21-f1e0-4656-957d-fbbfabe9d763",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_76af1d21-f1e0-4656-957d-fbbfabe9d763",
+          "https://target.scene7.com/is/image/Target/GUEST_840a25fe-c28f-4885-a8f0-611bb952858f",
+          "https://target.scene7.com/is/image/Target/GUEST_473cee38-dccb-4ffa-bf16-07e4a59aeb56",
+          "https://target.scene7.com/is/image/Target/GUEST_6ca1784e-16d1-47a3-b42c-0345a7c84927",
+          "https://target.scene7.com/is/image/Target/GUEST_eb0d9604-8870-46ef-be42-d4e352f45b69"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.59,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.59,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       11,
+      "product": {
+        "title": "Expo 4pk Dry Erase Markers Chisel Tip Multicolored",
+        "link": "https://www.target.com/p/expo-4pk-dry-erase-markers-chisel-tip-multicolored/-/A-10804811",
+        "tcin": "10804811",
+        "dpci": "081-02-1024",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Expo",
+        "brand_link": "https://www.target.com/b/expo/-/N-56c8i",
+        "feature_bullets": [
+          "Chisel tip for easy use",
+          "Low odor, ideal for classrooms & office use",
+          "Bright, vivid, non toxic ink is quick-drying, smear proof, easy to see from a distance, and provides consistent color quality",
+          "Versatile chisel tip allows for broad or fine writing",
+          "Erases cleanly and easily with a dry cloth or Expo eraser",
+          "Package quantity: 4"
+        ],
+        "rating": 4.6,
+        "ratings_total": 691,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_64e27165-1c98-4ec0-9c35-587dc15e149b",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_64e27165-1c98-4ec0-9c35-587dc15e149b",
+          "https://target.scene7.com/is/image/Target/GUEST_f84eeebb-db1c-4244-ab69-efaafafa1605",
+          "https://target.scene7.com/is/image/Target/GUEST_1a170477-001a-4a16-b0fa-f2f2583c0439",
+          "https://target.scene7.com/is/image/Target/GUEST_4d58eb27-ecac-49f4-aa27-fda04ad8ebe7",
+          "https://target.scene7.com/is/image/Target/GUEST_9fc8bea8-ad32-4d22-bb66-42cd79943e78",
+          "https://target.scene7.com/is/image/Target/GUEST_e7825ca8-eb25-43e5-ab65-3c858f9d6e32",
+          "https://target.scene7.com/is/image/Target/GUEST_261215f2-64a0-4032-862b-c63faa4063e6"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_0b5b6fae-3e90-4b37-be13-75d2f644383f_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_04f75756-41cf-4871-a090-d4785aa79bc4_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       12,
+      "product": {
+        "title": "Sharpie Pocket 4pk Highlighters Narrow Chisel Tip Multicolored",
+        "link": "https://www.target.com/p/sharpie-pocket-4pk-highlighters-narrow-chisel-tip-multicolored/-/A-78025470",
+        "tcin": "78025470",
+        "dpci": "081-02-3451",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Bright, easy-to-see colors make your highlighted text easy to read",
+          "Resists smearing of many pen and marker inks (let ink dry before highlighting)",
+          "Easy-glide, narrow chisel tip is great for highlighting, underlining or writing notes",
+          "Slim shape is easy to control and slips into backpacks or notebooks",
+          "Includes: Fluorescent Pink, Yellow, Orange and Blue highlighters"
+        ],
+        "rating": 4.7,
+        "ratings_total": 611,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_dd2740a1-b9a7-4a4f-906d-3244ff2b517e",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_dd2740a1-b9a7-4a4f-906d-3244ff2b517e",
+          "https://target.scene7.com/is/image/Target/GUEST_29507d0a-f7ee-483e-b6c1-72237ea26e7a",
+          "https://target.scene7.com/is/image/Target/GUEST_a6980245-9cab-435d-8469-4f01064e04b8",
+          "https://target.scene7.com/is/image/Target/GUEST_3680fd7d-ecec-40a9-a13d-7722546532ca"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_0bf20858-cdf8-4e8a-bdc6-723433b97c61_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_75fa3d67-3821-4e47-8ddf-14aa56078d75_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.49,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.49,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       13,
+      "product": {
+        "title": "Expo 4pk Dry Erase Markers Fine Tip Black",
+        "link": "https://www.target.com/p/expo-4pk-dry-erase-markers-fine-tip-black/-/A-52901870",
+        "tcin": "52901870",
+        "dpci": "081-02-1586",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Expo",
+        "brand_link": "https://www.target.com/b/expo/-/N-56c8i",
+        "feature_bullets": [
+          "Dry erase markers in bold black",
+          "Fine tip perfect for accurate, detailed lines",
+          "Low odor ink, ideal for home, classroom, and office use",
+          "Erase cleanly and easily with an EXPO eraser",
+          "Includes 4 black dry erase markers"
+        ],
+        "rating": 4.7,
+        "ratings_total": 636,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_ac0367ea-ee57-447e-8ed7-50d2ef6b501e",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_ac0367ea-ee57-447e-8ed7-50d2ef6b501e",
+          "https://target.scene7.com/is/image/Target/GUEST_60ef76ae-c00e-42af-aa46-9a1cc9584079",
+          "https://target.scene7.com/is/image/Target/GUEST_a49645f0-b1de-4a2a-b4b5-7a4a15ac27c6",
+          "https://target.scene7.com/is/image/Target/GUEST_f63c4e9e-b75d-4e5e-9b11-4dfbe7e56197",
+          "https://target.scene7.com/is/image/Target/GUEST_e9a5625b-1ed2-4db2-bb89-802feaf87b38",
+          "https://target.scene7.com/is/image/Target/GUEST_37ba5ac1-add0-41ed-9278-1834aa92b4ae",
+          "https://target.scene7.com/is/image/Target/GUEST_3fe06a0d-2b0a-4ab1-a2d1-8188a099c37a",
+          "https://target.scene7.com/is/image/Target/GUEST_f4c2e588-9ef4-4e5a-b20c-de4d113a95f1"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_8263f60d-6cf2-45b6-8ac5-c3a9ccf32c6f_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_04f75756-41cf-4871-a090-d4785aa79bc4_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.89,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.89,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       14,
+      "product": {
+        "title": "10ct Washable Markers Fine Tip Classic Colors - Mondo Llama&#8482;",
+        "link": "https://www.target.com/p/10ct-washable-markers-fine-tip-classic-colors-mondo-llama-8482/-/A-81212683",
+        "tcin": "81212683",
+        "dpci": "081-04-1625",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Mondo Llama",
+        "brand_link": "https://www.target.com/b/mondo-llama/-/N-q643leml01z",
+        "feature_bullets": [
+          "Fine tip markers offer a neat streak",
+          "Features 10 colors from across the spectrum",
+          "Washes from skin, most washable clothes and most painted walls",
+          "Keep away from wallpaper, unfinished wood, vinyl, carpeting and other material that cannot be washed"
+        ],
+        "rating": 4.6,
+        "ratings_total": 783,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_2a0bc3ba-7ae8-4717-bfe0-1a79e853b506",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_2a0bc3ba-7ae8-4717-bfe0-1a79e853b506",
+          "https://target.scene7.com/is/image/Target/GUEST_d15ea89a-ec93-4d84-b3aa-7cf5f94bb75a",
+          "https://target.scene7.com/is/image/Target/GUEST_6b2e234f-6469-4e6c-9bab-066f4e460653",
+          "https://target.scene7.com/is/image/Target/GUEST_f3913709-30d0-45fc-9f28-476ef7d0bdca",
+          "https://target.scene7.com/is/image/Target/GUEST_9e114a55-0c1c-464e-b013-158948b1a02b"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_3dc57661-4cf2-4f9f-8cc4-c8b9efc713b8_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.25,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.25,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       15,
+      "product": {
+        "title": "Crayola 10ct Ultra-Clean Washable Markers Fine Line Classic Colors",
+        "link": "https://www.target.com/p/crayola-10ct-ultra-clean-washable-markers-fine-line-classic-colors/-/A-15225907",
+        "tcin": "15225907",
+        "dpci": "081-04-3619",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "CRAYOLA MARKERS: Features 10 Ultra Clean Markers in classic colors that are perfect for the classroom.",
+          "WASHABLE MARKERS: Crayola Washable Markers are now Ultra-Clean; washable from skin, clothing and now from painted walls.",
+          "SCHOOL SUPPLIES: A popular item on back to school lists for school projects, homework, and crafts.",
+          "FINE TIP FOR THE DETAILS: The fine line tip is great for detailed coloring pages and drawings.",
+          "SAFE AND NONTOXIC: Ideal for kids ages 3 & up."
+        ],
+        "rating": 4.8,
+        "ratings_total": 408,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_72907133-e808-456d-9159-5b1bd79d0035",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_72907133-e808-456d-9159-5b1bd79d0035",
+          "https://target.scene7.com/is/image/Target/GUEST_60ecaec9-d570-4375-b60d-e8a30974ce29",
+          "https://target.scene7.com/is/image/Target/GUEST_f033abc5-eb4e-4fb8-890b-6145d74975ca",
+          "https://target.scene7.com/is/image/Target/GUEST_764b8607-31e5-41ae-ad3c-fe085e059669",
+          "https://target.scene7.com/is/image/Target/GUEST_8a960801-5b79-4b9c-a115-8bed7fe88789",
+          "https://target.scene7.com/is/image/Target/GUEST_9dc3f249-285a-4936-848a-6590d066ce33"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/5b184c284ead3a0001d05f96_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       16,
+      "product": {
+        "title": "Sharpie 4pk Highlighters Smear Guard Chisel Tip Yellow",
+        "link": "https://www.target.com/p/sharpie-4pk-highlighters-smear-guard-chisel-tip-yellow/-/A-83529335",
+        "tcin": "83529335",
+        "dpci": "081-02-6652",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Sharpie Tank Highlighters with wide barrel and large ink supply that delivers dependable highlighting",
+          "Bright fluorescent ink stands out on the page",
+          "Narrow chisel tip great for highlighting, underlining, and writing notes",
+          "Resists smearing (let ink dry before highlighting)",
+          "Includes 4 fluorescent yellow highlighters"
+        ],
+        "rating": 4.9,
+        "ratings_total": 385,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_55d10428-9db6-4e4c-845b-1fb666259af5",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_55d10428-9db6-4e4c-845b-1fb666259af5",
+          "https://target.scene7.com/is/image/Target/GUEST_555c306f-31d9-44e4-8e92-1baa30362296",
+          "https://target.scene7.com/is/image/Target/GUEST_7d972b33-205c-490f-b947-87d358a22bb6",
+          "https://target.scene7.com/is/image/Target/GUEST_6f9d9718-927b-4093-b5fa-036259f88020",
+          "https://target.scene7.com/is/image/Target/GUEST_dcfacb74-3235-4c0e-9ca5-0c9c99333e22",
+          "https://target.scene7.com/is/image/Target/GUEST_1c19ec48-9187-47b6-b304-95764cb3ca32",
+          "https://target.scene7.com/is/image/Target/GUEST_3d9a616a-e35a-43de-ac3d-8d641db6dbef",
+          "https://target.scene7.com/is/image/Target/GUEST_6d833fba-8081-4241-a306-5135dcf520dd"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       17,
+      "product": {
+        "title": "Crayola 10ct Washable Markers Broad Line - Bright Colors",
+        "link": "https://www.target.com/p/crayola-10ct-washable-markers-broad-line-bright-colors/-/A-15225909",
+        "tcin": "15225909",
+        "dpci": "081-04-3621",
+        "class_id": 4,
+        "department_id": 81,
+        "brand": "Crayola",
+        "brand_link": "https://www.target.com/b/crayola/-/N-5xoy2",
+        "feature_bullets": [
+          "CRAYOLA ULTRA CLEAN MARKERS: Features 10 Crayola Ultra Clean Washable Markers in Bright Colors.",
+          "COLOR MAX ENHANCED: Each marker comes Color Max enhanced with brighter and more beautiful colors.",
+          "WASHABLE MARKERS: Washable markers wash easily from skin, clothing and most painted walls.",
+          "COLORING SUPPLIES: Add these Crayola Markers to arts and crafts supplies at home or bundle with other Crayola products for a coloring gift for kids!",
+          "SAFE & NONTOXIC: Great for kids ages 3 & Up.",
+          "Unscented"
+        ],
+        "rating": 4.8,
+        "ratings_total": 658,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_1ee1f4e0-dac9-4b70-9d02-71361e425177",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_1ee1f4e0-dac9-4b70-9d02-71361e425177",
+          "https://target.scene7.com/is/image/Target/GUEST_f58ec63d-cdfa-45c4-a124-fcdf50381c52",
+          "https://target.scene7.com/is/image/Target/GUEST_4fc2b8ce-a36c-47f9-a4bb-c10358cab94f"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       18,
+      "product": {
+        "title": "Sharpie 2pk Permanent Markers Ultra Fine Tip Black",
+        "link": "https://www.target.com/p/sharpie-2pk-permanent-markers-ultra-fine-tip-black/-/A-10804810",
+        "tcin": "10804810",
+        "dpci": "081-02-0593",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Proudly permanent ink marks on paper, plastic, metal, and most other surfaces",
+          "Intensely brilliant colors create eye-popping, vibrant impressions",
+          "Remarkably resilient ink dries quickly and resists fading and water; AP certified",
+          "Endlessly versatile ultra-fine point has a precise, narrow tip for extreme control",
+          "Includes 2 black Sharpie permanent markers"
+        ],
+        "rating": 4.8,
+        "ratings_total": 604,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_57685015-8422-4915-b201-f0c31c57d77b",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_57685015-8422-4915-b201-f0c31c57d77b",
+          "https://target.scene7.com/is/image/Target/GUEST_8ff81175-684c-4996-b469-8ce5dcd26bd4",
+          "https://target.scene7.com/is/image/Target/GUEST_c74dd3d3-2832-417e-bd43-3161eccd940d",
+          "https://target.scene7.com/is/image/Target/GUEST_09e93e2a-993f-4c17-94f5-0e4b752fd341",
+          "https://target.scene7.com/is/image/Target/GUEST_c3b9a7e4-1b8d-4fcb-83fe-6f3c5c2ffd70",
+          "https://target.scene7.com/is/image/Target/GUEST_d8cbe3c0-5535-4d18-8f7c-d571e1df7415"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_44967733-7805-4ee8-adcf-b51fbeb6dcbc_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       19,
+      "product": {
+        "title": "Sharpie 5pk Permanent Markers Fine Tip Black",
+        "link": "https://www.target.com/p/sharpie-5pk-permanent-markers-fine-tip-black/-/A-78025465",
+        "tcin": "78025465",
+        "dpci": "081-02-0493",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Proudly permanent ink marks on paper, plastic, metal, and most other surfaces",
+          "Intensely brilliant colors create eye popping, vibrant impressions",
+          "Remarkably resilient ink dries quickly and resists fading and water; AP certified",
+          "Endlessly versatile fine tip makes impressively bold, detailed marks",
+          "Includes 5 Black Sharpie permanent markers"
+        ],
+        "rating": 4.9,
+        "ratings_total": 430,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_4d9a5f22-2748-48b8-95e8-4706b35966f0",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_4d9a5f22-2748-48b8-95e8-4706b35966f0",
+          "https://target.scene7.com/is/image/Target/GUEST_67de2d4d-383a-411f-afc1-82b7e47a58d3",
+          "https://target.scene7.com/is/image/Target/GUEST_5e5e5130-0690-42a0-8849-3dd77f11bd5a",
+          "https://target.scene7.com/is/image/Target/GUEST_cc86f0a7-ca9f-4667-a252-0565fe36ba58",
+          "https://target.scene7.com/is/image/Target/GUEST_e3dc8ba1-9054-43d5-bd05-1f75a3ab41fb",
+          "https://target.scene7.com/is/image/Target/GUEST_444eff62-9fa6-4168-984f-e12950320103"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_44967733-7805-4ee8-adcf-b51fbeb6dcbc_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.89,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.89,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       20,
+      "product": {
+        "title": "Sharpie Clear View 6pk Highlighters Chisel Tip Multicolored",
+        "link": "https://www.target.com/p/sharpie-clear-view-6pk-highlighters-chisel-tip-multicolored/-/A-51912582",
+        "tcin": "51912582",
+        "dpci": "081-02-2118",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Highlighter with see-through tip so you can highlight neatly and evenly",
+          "Chisel tip lets you switch between both wide and narrow lines",
+          "Ultra-vivid fluorescent ink jumps off the page",
+          "Resists smearing of many pen and marker inks so your work stays clean",
+          "Contains 6 Stick Highlighters in assorted colors; colors in pack may vary"
+        ],
+        "rating": 4.6,
+        "ratings_total": 336,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_b03a5601-81ea-41df-8f2a-96307c27219b",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_b03a5601-81ea-41df-8f2a-96307c27219b",
+          "https://target.scene7.com/is/image/Target/GUEST_70752be5-dc3b-4c4e-a9dd-3aab2ed414c7",
+          "https://target.scene7.com/is/image/Target/GUEST_327426f1-6305-476f-8b42-b469e7f6b16d",
+          "https://target.scene7.com/is/image/Target/GUEST_0e1a25c4-fd77-44dc-8938-102898f318f9",
+          "https://target.scene7.com/is/image/Target/GUEST_9675c7c9-c33f-4dc8-9bb6-f5972004e971"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_0bf20858-cdf8-4e8a-bdc6-723433b97c61_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_6a704552-1e1c-4841-b170-195add122580_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 9.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 9.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       21,
+      "product": {
+        "title": "Expo 4pk Dry Erase Markers Fine Tip Multicolored",
+        "link": "https://www.target.com/p/expo-4pk-dry-erase-markers-fine-tip-multicolored/-/A-10805594",
+        "tcin": "10805594",
+        "dpci": "081-02-1216",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Expo",
+        "brand_link": "https://www.target.com/b/expo/-/N-56c8i",
+        "feature_bullets": [
+          "Chisel tip for easy use",
+          "Low odor, ideal for classrooms & office use",
+          "Durable, fine point tip for thin, detailed lines",
+          "Erases cleanly and easily with a dry cloth or Expo eraser",
+          "Package quantity: 4"
+        ],
+        "rating": 4.5,
+        "ratings_total": 439,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_fc2c1380-9968-4572-a986-454351221dab",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_fc2c1380-9968-4572-a986-454351221dab",
+          "https://target.scene7.com/is/image/Target/GUEST_6cf3a6ca-bd0d-4249-bb36-ba37fd1908e0",
+          "https://target.scene7.com/is/image/Target/GUEST_b0f3ed6c-61d9-4b8e-9b05-cabd5266b621",
+          "https://target.scene7.com/is/image/Target/GUEST_bd67eff9-103c-4588-97b5-07555da0110d",
+          "https://target.scene7.com/is/image/Target/GUEST_40ad23b3-783d-4dcd-ac2c-298aa5718173",
+          "https://target.scene7.com/is/image/Target/GUEST_49aa56e7-7836-4acf-a033-b345ebc49c50",
+          "https://target.scene7.com/is/image/Target/GUEST_5598c07a-d34e-4cee-ac5c-4cdbbf0f5f25",
+          "https://target.scene7.com/is/image/Target/GUEST_fe36601a-5c79-4708-9774-d3232c822f4b"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_8263f60d-6cf2-45b6-8ac5-c3a9ccf32c6f_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_04f75756-41cf-4871-a090-d4785aa79bc4_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.89,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.89,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       22,
+      "product": {
+        "title": "Expo 4pk Dry Erase Markers Bullet Tip Multicolored",
+        "link": "https://www.target.com/p/expo-4pk-dry-erase-markers-bullet-tip-multicolored/-/A-54241703",
+        "tcin": "54241703",
+        "dpci": "081-02-2467",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Expo",
+        "brand_link": "https://www.target.com/b/expo/-/N-56c8i",
+        "feature_bullets": [
+          "Consistent, skip-free marking and brilliant color options",
+          "Low-odor ink formula erases cleanly and is ideal for classrooms, offices and home offices",
+          "Durable bullet tip allows for broad, thick lines",
+          "For optimal results, use on non-porous surfaces such as porcelain or melamine whiteboards and glass",
+          "Includes 4 dry erase bullet tip in assorted colors"
+        ],
+        "rating": 4.8,
+        "ratings_total": 287,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_8306e10c-4800-4efe-8603-bc07a3a707bf",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_8306e10c-4800-4efe-8603-bc07a3a707bf",
+          "https://target.scene7.com/is/image/Target/GUEST_93dc6282-b45a-44c7-8862-8532681ba2e3",
+          "https://target.scene7.com/is/image/Target/GUEST_98100328-a4b1-4054-bc91-f535006e13f7",
+          "https://target.scene7.com/is/image/Target/GUEST_836635dd-a3c8-4cda-8d37-7b5339e3e0b7",
+          "https://target.scene7.com/is/image/Target/GUEST_de39e376-cb2d-4a8e-b59b-9d4bfaac2288",
+          "https://target.scene7.com/is/image/Target/GUEST_e2b7357e-944d-4c2f-92c2-014432a335fd"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       23,
+      "product": {
+        "title": "Sharpie Clear View 3pk Highlighters Chisel Tip Mulitcolored",
+        "link": "https://www.target.com/p/sharpie-clear-view-3pk-highlighters-chisel-tip-mulitcolored/-/A-18799259",
+        "tcin": "18799259",
+        "dpci": "081-02-0559",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "Sharpie",
+        "brand_link": "https://www.target.com/b/sharpie/-/N-56cak",
+        "feature_bullets": [
+          "Highlighter with see-through tip so you can highlight neatly and evenly",
+          "Chisel tip lets you switch between both wide and narrow lines",
+          "Ultra-vivid fluorescent ink jumps off the page",
+          "Resists smearing of many pen and marker inks so your work stays clean",
+          "Contains 3 Tank Highlighters in assorted colors; colors in pack may vary"
+        ],
+        "rating": 4.8,
+        "ratings_total": 244,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_82fedeff-1836-42e0-8da8-ec182e71b333",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_82fedeff-1836-42e0-8da8-ec182e71b333",
+          "https://target.scene7.com/is/image/Target/GUEST_676a55d4-0b64-44b0-8ce1-28d0d44f87f3",
+          "https://target.scene7.com/is/image/Target/GUEST_784f2276-2b5d-4f8f-91ef-5f0c984dd310",
+          "https://target.scene7.com/is/image/Target/GUEST_e594e29a-cf45-4be9-be74-3c09edc0fef6",
+          "https://target.scene7.com/is/image/Target/GUEST_fea75900-8daa-44a7-a562-fc1e033d5738",
+          "https://target.scene7.com/is/image/Target/GUEST_aa685f6b-1166-4989-9895-dfe527181766",
+          "https://target.scene7.com/is/image/Target/GUEST_d8d7c698-1161-4ce5-9326-e6920044c7f4",
+          "https://target.scene7.com/is/image/Target/GUEST_340363bf-02e6-4cc4-bcad-6dec0e731e3b"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_6a704552-1e1c-4841-b170-195add122580_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 5.59,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 5.59,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+       24,
+      "product": {
+        "title": "Highlighters Narrow Chisel Tip Multicolor 12ct - up &#38; up&#8482;",
+        "link": "https://www.target.com/p/highlighters-narrow-chisel-tip-multicolor-12ct-up-38-up-8482/-/A-16631074",
+        "tcin": "16631074",
+        "dpci": "081-02-1682",
+        "class_id": 2,
+        "department_id": 81,
+        "brand": "up & up",
+        "brand_link": "https://www.target.com/b/up/-/N-q643leuvcp7",
+        "feature_bullets": [
+          "12pk of highlighters for school, work or craft use",
+          "Chisel-tip highlighters allow for more precise highlighting",
+          "Tip can create thick or thin lines depending on angle",
+          "Bright colors are easy to see when skimming through pages",
+          "Multicolor pack includes yellow, pink, orange, green and purple highlighters"
+        ],
+        "rating": 4.7,
+        "ratings_total": 389,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_9326ab9b-f6c4-4134-b62f-8c80d6d71bfb",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_9326ab9b-f6c4-4134-b62f-8c80d6d71bfb",
+          "https://target.scene7.com/is/image/Target/GUEST_10ab14fc-7753-4198-9205-d829de826374",
+          "https://target.scene7.com/is/image/Target/GUEST_ff55c1ed-8b2d-4bf4-928a-3383207ea20e"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 7.49,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 7.49,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    }
+  ],
+  "related_queries": [
+    {
+      "query": "washable markers",
+      "link": "https://www.target.com/s?searchTerm=washable+markers"
+    },
+    {
+      "query": "crayola markers",
+      "link": "https://www.target.com/s?searchTerm=crayola+markers"
+    },
+    {
+      "query": "crayola markers 8 count",
+      "link": "https://www.target.com/s?searchTerm=crayola+markers+8+count"
+    },
+    {
+      "query": "dry erase marker",
+      "link": "https://www.target.com/s?searchTerm=dry+erase+marker"
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.target.com/s?searchTerm=Markers&sortBy=bestselling&Nao=0"
+    },
+    "next": {
+      "page": 2,
+      "link": "https://www.target.com/s?searchTerm=Markers&sortBy=bestselling&Nao=24"
+    },
+    "total_pages": 19,
+    "total_results": 438
+  },
+  "categories": [
+    {
+      "name": "School & Office Supplies",
+      "id": "5xsxr"
+    },
+    {
+      "name": "Party Supplies",
+      "id": "5xt3c"
+    },
+    {
+      "name": "Home",
+      "id": "5xtvd"
+    },
+    {
+      "name": "Holiday Shop",
+      "id": "4ydi5"
+    },
+    {
+      "name": "Toys",
+      "id": "5xtb0"
+    }
+  ],
+  "facets": [
+    {
+      "display_name": "Type",
+      "name": "d_item_type_all",
+      "values": [
+        {
+          "display_name": "Artist Markers",
+          "value": "artist markers",
+          "id": "al25lfglagt"
+        },
+        {
+          "display_name": "Brush Markers",
+          "value": "brush markers",
+          "id": "al25lfl6gmg"
+        },
+        {
+          "display_name": "Chalk Markers",
+          "value": "chalk markers",
+          "id": "al25lfs2eow"
+        },
+        {
+          "display_name": "Dry Erase Markers",
+          "value": "dry erase markers",
+          "id": "al25lfz7brg"
+        },
+        {
+          "display_name": "Fabric Markers",
+          "value": "fabric markers",
+          "id": "join3"
+        },
+        {
+          "display_name": "Highlighters",
+          "value": "highlighters",
+          "id": "al25lf5y9hu"
+        },
+        {
+          "display_name": "Paint Markers",
+          "value": "paint markers",
+          "id": "al25lf6woel"
+        },
+        {
+          "display_name": "Permanent Markers",
+          "value": "permanent markers",
+          "id": "al25lfyet60"
+        },
+        {
+          "display_name": "Washable Art Markers",
+          "value": "washable art markers",
+          "id": "al25lfpn5ai"
+        },
+        {
+          "display_name": "Wet Erase Markers",
+          "value": "wet erase markers",
+          "id": "al25lf50n5j"
+        }
+      ]
+    },
+    {
+      "display_name": "Brand",
+      "name": "d_brand_all",
+      "values": [
+        {
+          "display_name": "3M",
+          "value": "3m",
+          "id": "dokr4"
+        },
+        {
+          "display_name": "Art 101",
+          "value": "art 101",
+          "id": "54xrs"
+        },
+        {
+          "display_name": "Arteza",
+          "value": "arteza",
+          "id": "q643le9kydq"
+        },
+        {
+          "display_name": "Avery",
+          "value": "avery",
+          "id": "5d7pg"
+        },
+        {
+          "display_name": "Bendon",
+          "value": "bendon",
+          "id": "fz241"
+        },
+        {
+          "display_name": "Best Choice Products",
+          "value": "best choice products",
+          "id": "q643le2dwgz"
+        },
+        {
+          "display_name": "BiC",
+          "value": "bic",
+          "id": "5pteu"
+        },
+        {
+          "display_name": "Carter's",
+          "value": "carter's",
+          "id": "6r2xf"
+        },
+        {
+          "display_name": "Copic",
+          "value": "copic",
+          "id": "735p4"
+        },
+        {
+          "display_name": "Crayola",
+          "value": "crayola",
+          "id": "5xoy2"
+        },
+        {
+          "display_name": "Cricut",
+          "value": "cricut",
+          "id": "v8agu"
+        },
+        {
+          "display_name": "Dixon",
+          "value": "dixon",
+          "id": "1bne9"
+        },
+        {
+          "display_name": "Do-A-Dot Art",
+          "value": "do-a-dot art",
+          "id": "c14kj"
+        },
+        {
+          "display_name": "Enday",
+          "value": "enday",
+          "id": "q643legr8wf"
+        },
+        {
+          "display_name": "Expo",
+          "value": "expo",
+          "id": "56c8i"
+        },
+        {
+          "display_name": "FriXion",
+          "value": "frixion",
+          "id": "q643lenvhp3"
+        },
+        {
+          "display_name": "Integra",
+          "value": "integra",
+          "id": "34h06"
+        },
+        {
+          "display_name": "Kaplan Early Learning Company",
+          "value": "kaplan early learning company",
+          "id": "oaedo"
+        },
+        {
+          "display_name": "kingart",
+          "value": "kingart",
+          "id": "hvfwh"
+        },
+        {
+          "display_name": "LEGO",
+          "value": "lego",
+          "id": "56h5n"
+        },
+        {
+          "display_name": "Marks-A-Lot",
+          "value": "marks-a-lot",
+          "id": "jfkgb"
+        },
+        {
+          "display_name": "Marvy Uchida",
+          "value": "marvy uchida",
+          "id": "5qzrq"
+        },
+        {
+          "display_name": "Mondo Llama",
+          "value": "mondo llama",
+          "id": "q643leml01z"
+        },
+        {
+          "display_name": "Mr. Sketch",
+          "value": "mr. sketch",
+          "id": "4yhz2"
+        },
+        {
+          "display_name": "MyOfficeInnovations",
+          "value": "myofficeinnovations",
+          "id": "q643leoowt"
+        },
+        {
+          "display_name": "Pentel",
+          "value": "pentel",
+          "id": "5d7u4"
+        },
+        {
+          "display_name": "Pilot",
+          "value": "pilot",
+          "id": "5d8yf"
+        },
+        {
+          "display_name": "Pintar Art Supply",
+          "value": "pintar art supply",
+          "id": "q643ledp03a"
+        },
+        {
+          "display_name": "Post-it",
+          "value": "post-it",
+          "id": "mqegq"
+        },
+        {
+          "display_name": "Prismacolor",
+          "value": "prismacolor",
+          "id": "dfsv5"
+        },
+        {
+          "display_name": "Quartet",
+          "value": "quartet",
+          "id": "54xle"
+        },
+        {
+          "display_name": "Ready2Learn",
+          "value": "ready2learn",
+          "id": "n7rty"
+        },
+        {
+          "display_name": "School Smart",
+          "value": "school smart",
+          "id": "8q5wb"
+        },
+        {
+          "display_name": "Sharpie",
+          "value": "sharpie",
+          "id": "56cak"
+        },
+        {
+          "display_name": "Sparco",
+          "value": "sparco",
+          "id": "4i1d3"
+        },
+        {
+          "display_name": "Spectrum Noir",
+          "value": "spectrum noir",
+          "id": "q643lehralt"
+        },
+        {
+          "display_name": "Staedtler",
+          "value": "staedtler",
+          "id": "56i5t"
+        },
+        {
+          "display_name": "Staples",
+          "value": "staples",
+          "id": "q643lev0bck"
+        },
+        {
+          "display_name": "Target Brands",
+          "value": "target brands",
+          "id": "xmf9o"
+        },
+        {
+          "display_name": "The Original Glowstars",
+          "value": "the original glowstars",
+          "id": "q643le2r6lw"
+        },
+        {
+          "display_name": "The Pencil Grip, Inc.",
+          "value": "the pencil grip, inc.",
+          "id": "xvzel"
+        },
+        {
+          "display_name": "Ticonderoga",
+          "value": "ticonderoga",
+          "id": "5d5zu"
+        },
+        {
+          "display_name": "Tombow",
+          "value": "tombow",
+          "id": "54xlg"
+        },
+        {
+          "display_name": "TRU RED",
+          "value": "tru red",
+          "id": "q643leviis7"
+        },
+        {
+          "display_name": "Tulip",
+          "value": "tulip",
+          "id": "4yk7o"
+        },
+        {
+          "display_name": "Tulip Color",
+          "value": "tulip color",
+          "id": "q643lezd98c"
+        },
+        {
+          "display_name": "U Brands",
+          "value": "u brands",
+          "id": "q643les6yiv"
+        },
+        {
+          "display_name": "uniball",
+          "value": "uniball",
+          "id": "q643leooqjy"
+        },
+        {
+          "display_name": "Universal Office",
+          "value": "universal office",
+          "id": "yj4jr"
+        },
+        {
+          "display_name": "up & up",
+          "value": "up & up",
+          "id": "q643leuvcp7"
+        },
+        {
+          "display_name": "VersaChalk",
+          "value": "versachalk",
+          "id": "5mkrr"
+        },
+        {
+          "display_name": "Yoobi",
+          "value": "yoobi",
+          "id": "551o8"
+        },
+        {
+          "display_name": "Zebra",
+          "value": "zebra",
+          "id": "5537i"
+        }
+      ]
+    },
+    {
+      "display_name": "Package Quantity",
+      "name": "d_package_quantity",
+      "values": [
+        {
+          "display_name": "0 - 10",
+          "value": "0 - 10",
+          "id": "xo6o1"
+        },
+        {
+          "display_name": "11 - 20",
+          "value": "11 - 20",
+          "id": "51tyh"
+        },
+        {
+          "display_name": "21 - 30",
+          "value": "21 - 30",
+          "id": "ted2d"
+        },
+        {
+          "display_name": "31 - 40",
+          "value": "31 - 40",
+          "id": "9s9jm"
+        },
+        {
+          "display_name": "41 - 50",
+          "value": "41 - 50",
+          "id": "1o5mp"
+        },
+        {
+          "display_name": "51 - 60",
+          "value": "51 - 60",
+          "id": "zl11t"
+        },
+        {
+          "display_name": "61 - 100",
+          "value": "61 - 100",
+          "id": "kjhnn"
+        },
+        {
+          "display_name": "101 - 200",
+          "value": "101 - 200",
+          "id": "cpbw7"
+        },
+        {
+          "display_name": "201 - 300",
+          "value": "201 - 300",
+          "id": "nund0"
+        }
+      ]
+    },
+    {
+      "display_name": "Deals",
+      "name": "d_deals",
+      "values": [
+        {
+          "display_name": "All Deals",
+          "value": "all deals",
+          "id": "akkos"
+        },
+        {
+          "display_name": "Buy and Save",
+          "value": "buy and save",
+          "id": "55e6t"
+        },
+        {
+          "display_name": "Clearance",
+          "value": "clearance",
+          "id": "5tdv1"
+        },
+        {
+          "display_name": "Sale",
+          "value": "sale",
+          "id": "5tdv0"
+        },
+        {
+          "display_name": "Weekly Ad",
+          "value": "weekly ad",
+          "id": "55dgn"
+        }
+      ]
+    },
+    {
+      "display_name": "Price",
+      "name": "d_pricerange",
+      "values": [
+        {
+          "display_name": "$0 - $15",
+          "value": "$0 - $15",
+          "id": "5zja2"
+        },
+        {
+          "display_name": "$15 - $25",
+          "value": "$15 - $25",
+          "id": "5zja3"
+        },
+        {
+          "display_name": "$25 - $50",
+          "value": "$25 - $50",
+          "id": "5zja4"
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "$50 - $100",
+          "id": "5zja5"
+        },
+        {
+          "display_name": "$100 - $150",
+          "value": "$100 - $150",
+          "id": "5zja6"
+        }
+      ]
+    },
+    {
+      "display_name": "Color",
+      "name": "d_color_all",
+      "values": [
+        {
+          "display_name": "Black",
+          "value": "black",
+          "id": "5y761"
+        },
+        {
+          "display_name": "Blue",
+          "value": "blue",
+          "id": "5y70h"
+        },
+        {
+          "display_name": "Brown",
+          "value": "brown",
+          "id": "5y746"
+        },
+        {
+          "display_name": "Clear",
+          "value": "clear",
+          "id": "5y6nd"
+        },
+        {
+          "display_name": "Gold",
+          "value": "gold",
+          "id": "5y67t"
+        },
+        {
+          "display_name": "Gray",
+          "value": "gray",
+          "id": "5y759"
+        },
+        {
+          "display_name": "Green",
+          "value": "green",
+          "id": "5y73r"
+        },
+        {
+          "display_name": "Multicolored",
+          "value": "multicolored",
+          "id": "5xr7i"
+        },
+        {
+          "display_name": "Orange",
+          "value": "orange",
+          "id": "55ivi"
+        },
+        {
+          "display_name": "Pink",
+          "value": "pink",
+          "id": "5y76n"
+        },
+        {
+          "display_name": "Purple",
+          "value": "purple",
+          "id": "5y6hb"
+        },
+        {
+          "display_name": "Red",
+          "value": "red",
+          "id": "5y76d"
+        },
+        {
+          "display_name": "Silver",
+          "value": "silver",
+          "id": "5y713"
+        },
+        {
+          "display_name": "White",
+          "value": "white",
+          "id": "5y750"
+        },
+        {
+          "display_name": "Yellow",
+          "value": "yellow",
+          "id": "5y72c"
+        }
+      ]
+    },
+    {
+      "display_name": "Age",
+      "name": "d_age_toys",
+      "values": [
+        {
+          "display_name": "2 - 4 Years",
+          "value": "2 - 4 years",
+          "id": "dyksm"
+        },
+        {
+          "display_name": "5 - 7 Years",
+          "value": "5 - 7 years",
+          "id": "5zl3x"
+        },
+        {
+          "display_name": "8 - 10 Years",
+          "value": "8 - 10 years",
+          "id": "5zl3y"
+        },
+        {
+          "display_name": "11 - 13 Years",
+          "value": "11 - 13 years",
+          "id": "4q1q"
+        },
+        {
+          "display_name": "14+ Years",
+          "value": "14+ years",
+          "id": "oser0"
+        }
+      ]
+    },
+    {
+      "display_name": "Occasion",
+      "name": "d_occasion_used_all",
+      "values": [
+        {
+          "display_name": "Easter",
+          "value": "easter",
+          "id": "r9dx6"
+        },
+        {
+          "display_name": "Thanksgiving",
+          "value": "thanksgiving",
+          "id": "tha76"
+        },
+        {
+          "display_name": "Valentine's Day",
+          "value": "valentine's day",
+          "id": "7xiul"
+        }
+      ]
+    },
+    {
+      "display_name": "Sold by",
+      "name": "d_sellers_all",
+      "values": [
+        {
+          "display_name": "Target",
+          "value": "target",
+          "id": "dq4mn"
+        },
+        {
+          "display_name": "Agave Market",
+          "value": "agave market",
+          "id": "pfndv"
+        },
+        {
+          "display_name": "Arteza",
+          "value": "arteza",
+          "id": "zbi86"
+        },
+        {
+          "display_name": "Best Choice Products",
+          "value": "best choice products",
+          "id": "vrtaj"
+        },
+        {
+          "display_name": "Brecommerce",
+          "value": "brecommerce",
+          "id": "is4z0"
+        },
+        {
+          "display_name": "Discount Learning Materials",
+          "value": "discount learning materials",
+          "id": "h6e2w"
+        },
+        {
+          "display_name": "Enday Direct",
+          "value": "enday direct",
+          "id": "p1l0w"
+        },
+        {
+          "display_name": "Kaplan Early Learning Company",
+          "value": "kaplan early learning company",
+          "id": "64e1f"
+        },
+        {
+          "display_name": "MyOfficeInnovations",
+          "value": "myofficeinnovations",
+          "id": "jp8ap"
+        },
+        {
+          "display_name": "School Specialty",
+          "value": "school specialty",
+          "id": "7gkvi"
+        }
+      ]
+    },
+    {
+      "display_name": "Character",
+      "name": "d_character_all",
+      "values": [
+        {
+          "display_name": "Coral",
+          "value": "coral",
+          "id": "zf4g0g8b1bv"
+        },
+        {
+          "display_name": "Crayola",
+          "value": "crayola",
+          "id": "t3y19"
+        },
+        {
+          "display_name": "LEGO",
+          "value": "lego",
+          "id": "5xzco"
+        },
+        {
+          "display_name": "Star Wars",
+          "value": "star wars",
+          "id": "5xz5m"
+        },
+        {
+          "display_name": "Strawberry Shortcake",
+          "value": "strawberry shortcake",
+          "id": "5rkzi"
+        },
+        {
+          "display_name": "Ultramarines",
+          "value": "ultramarines",
+          "id": "zf4g0gy60sa"
+        }
+      ]
+    },
+    {
+      "display_name": "Discount",
+      "name": "d_discount",
+      "values": [
+        {
+          "display_name": "10% off or more",
+          "value": "10% off or more",
+          "id": "zl12k"
+        },
+        {
+          "display_name": "15% off or more",
+          "value": "15% off or more",
+          "id": "itlc4"
+        }
+      ]
+    },
+    {
+      "display_name": "FPO/APO",
+      "name": "d_apo_fpo",
+      "values": [
+        {
+          "display_name": "only eligible items",
+          "value": "only eligible items",
+          "id": "vu13f"
+        }
+      ]
+    }
+  ]
+}

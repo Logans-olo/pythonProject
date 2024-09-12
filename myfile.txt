@@ -1,0 +1,1417 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 4,
+    "credits_remaining": 96,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "Marshmallows",
+    "sort_by": "best_seller"
+  },
+  "request_metadata": {
+    "created_at": "2023-10-25T00:26:27.986Z",
+    "processed_at": "2023-10-25T00:26:29.341Z",
+    "total_time_taken": 1.35,
+    "target_url": "https://www.target.com/s?searchTerm=Marshmallows&sortBy=bestselling&Nao=0"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "product": {
+        "title": "Kraft Jet-Puffed Marshmallows - 12oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-marshmallows-12oz/-/A-12968507",
+        "tcin": "12968507",
+        "dpci": "261-08-0005",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 12 oz bag of Jet-Puffed Marshmallows",
+          "Perfect for holiday baking, try using our versatile marshmallows as a dessert ingredient",
+          "Cozy up with our marshmallows for hot chocolate this holiday season",
+          "Jet-Puffed Marshmallows are a delicious and versatile dessert topping",
+          "Classic marshmallows deliver the sweet taste and fluffy texture you know and love",
+          "Fat free snack contains 0 g of trans fat and 0 g of total fat per serving",
+          "Perfect marshmallows for smores",
+          "Use Jet Puffed Marshmallows to make a classic rice cereal treat",
+          "Try using our marshmallows for hot chocolate",
+          "Our marshmallows come in a sealed bag allowing for lasting freshness",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.7,
+        "ratings_total": 3017,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_575d2351-ca32-4f3f-93e9-c517ad8e31c6",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_575d2351-ca32-4f3f-93e9-c517ad8e31c6",
+          "https://target.scene7.com/is/image/Target/GUEST_accea5c6-12f6-4dca-b795-48c26df6d195",
+          "https://target.scene7.com/is/image/Target/GUEST_4befae80-4618-47bc-9101-f1f25a519e63",
+          "https://target.scene7.com/is/image/Target/GUEST_1a5bcc85-35c2-4158-a7c1-5e009eaec34b",
+          "https://target.scene7.com/is/image/Target/GUEST_25c21c03-e344-4cc9-bf17-d35bc85fa18f",
+          "https://target.scene7.com/is/image/Target/GUEST_8f8d0533-6c82-406e-9ac7-19f74985f63e",
+          "https://target.scene7.com/is/image/Target/GUEST_14a57f1d-3ecb-487f-9744-e4baf9f2cc85",
+          "https://target.scene7.com/is/image/Target/GUEST_2ba314d3-24df-4974-8ab9-b34cb0b4999c",
+          "https://target.scene7.com/is/image/Target/GUEST_b294cabe-8ce4-4a51-af7c-9047303c4095",
+          "https://target.scene7.com/is/image/Target/GUEST_03d88b42-26b6-4806-82d0-fca87dc1998b",
+          "https://target.scene7.com/is/image/Target/GUEST_870b7943-f7a5-4022-bb2b-8949ec42e0db",
+          "https://target.scene7.com/is/image/Target/GUEST_b68c52cc-1aa2-401f-9d82-79fd26afac76"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_11c6db08-3a95-479b-b09c-771e5e9753de_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.89,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.89,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 2,
+      "product": {
+        "title": "Marshmallows - 10oz - Good &#38; Gather&#8482;",
+        "link": "https://www.target.com/p/marshmallows-10oz-good-38-gather-8482/-/A-77640517",
+        "tcin": "77640517",
+        "dpci": "261-08-0160",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Good & Gather",
+        "brand_link": "https://www.target.com/b/good-gather/-/N-yfqzk",
+        "feature_bullets": [
+          "No artificial flavors, colors or preservatives",
+          "Gluten-free",
+          "Net Wt. 10 OZ (283g)",
+          "100% satisfaction guaranteed or your money back"
+        ],
+        "rating": 4.6,
+        "ratings_total": 872,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_fcd423f1-a46e-4313-91bb-0d3e29d57b06",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_fcd423f1-a46e-4313-91bb-0d3e29d57b06",
+          "https://target.scene7.com/is/image/Target/GUEST_20095ee6-20bc-4409-95b0-89bb40d12da6",
+          "https://target.scene7.com/is/image/Target/GUEST_c48d71fb-2341-4143-b504-77e5808cd310"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 0.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 0.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 3,
+      "product": {
+        "title": "Mini Marshmallows - 10oz - Good &#38; Gather&#8482;",
+        "link": "https://www.target.com/p/mini-marshmallows-10oz-good-38-gather-8482/-/A-77640518",
+        "tcin": "77640518",
+        "dpci": "261-08-0161",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Good & Gather",
+        "brand_link": "https://www.target.com/b/good-gather/-/N-yfqzk",
+        "feature_bullets": [
+          "No artificial flavors, colors or preservatives",
+          "Gluten-free",
+          "Delicious taste",
+          "Net Wt. 10 OZ (283g)"
+        ],
+        "rating": 4.7,
+        "ratings_total": 1218,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_f7af7e7c-25fc-4c0c-87aa-003d7c4de5ef",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_f7af7e7c-25fc-4c0c-87aa-003d7c4de5ef",
+          "https://target.scene7.com/is/image/Target/GUEST_7588ac03-609d-4afc-8993-078b9b332315",
+          "https://target.scene7.com/is/image/Target/GUEST_897502cb-a989-48c2-b125-174168294519"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 0.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 0.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 4,
+      "product": {
+        "title": "Kraft Jet-Puffed S&#39;more Marshmallows - 21oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-s-39-more-marshmallows-21oz/-/A-14883881",
+        "tcin": "14883881",
+        "dpci": "261-08-0078",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 21 oz bag of Jet-Puffed S'more Marshmallows",
+          "Perfect for holiday baking, try using our versatile marshmallows as a dessert ingredient",
+          "Cozy up with our great marshmallows for hot chocolate this holiday season",
+          "Jet-Puffed S'more Marshmallows are a tasty dessert topping with a square shape for s'mores",
+          "Square shaped marshmallows deliver the classic sweet taste and fluffy texture you love",
+          "Fat free snack contains 0 g of trans fat and 0 g of total fat per serving",
+          "Perfect marshmallows for smores",
+          "Use Jet Puffed Marshmallows to make a classic rice cereal treat",
+          "Try using our marshmallows for hot chocolate",
+          "Our marshmallows come in a sealed bag",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.7,
+        "ratings_total": 699,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_89232545-300a-47d5-be99-252a4bcfa6ae",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_89232545-300a-47d5-be99-252a4bcfa6ae",
+          "https://target.scene7.com/is/image/Target/GUEST_263775fd-971b-4ffc-980b-ea065ef0f233",
+          "https://target.scene7.com/is/image/Target/GUEST_8e144638-d476-4bfb-8e31-d1149d42b738",
+          "https://target.scene7.com/is/image/Target/GUEST_56720f41-831b-4ef1-bc69-c13a17a3a12c",
+          "https://target.scene7.com/is/image/Target/GUEST_8565eb86-41f7-4c30-8561-b97f06a3aaa9",
+          "https://target.scene7.com/is/image/Target/GUEST_5b4a2c91-8699-4946-b9cd-180c74200291",
+          "https://target.scene7.com/is/image/Target/GUEST_19960340-2da3-496f-aab1-1e7bf26e22da",
+          "https://target.scene7.com/is/image/Target/GUEST_8b176938-7b3a-49d9-9cb8-353a70730be1",
+          "https://target.scene7.com/is/image/Target/GUEST_bf40d5ab-a332-4d26-8e69-030874650d40",
+          "https://target.scene7.com/is/image/Target/GUEST_e89010d8-2e70-46fd-9015-64d97e2eea0a",
+          "https://target.scene7.com/is/image/Target/GUEST_9d8127c7-7681-43e8-855d-f9ec7b706b01",
+          "https://target.scene7.com/is/image/Target/GUEST_0044dce5-e4b8-4d0d-96f8-ac3091b5d520",
+          "https://target.scene7.com/is/image/Target/GUEST_51962ec2-3d84-49b0-82c6-a9b99f40b02d"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_41b6593c-77d6-4cfd-bd9a-f2d4a28a9f8a_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.69,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.69,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 5,
+      "product": {
+        "title": "Kraft Jet-Puffed Mini Marshmallows - 10oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-mini-marshmallows-10oz/-/A-12968785",
+        "tcin": "12968785",
+        "dpci": "261-08-0003",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 10 oz bag of Jet-Puffed Mini Marshmallows",
+          "Perfect for holiday baking, try using our versatile mini marshmallows as a dessert ingredient",
+          "Jet-Puffed Mini Marshmallows are a delicious and versatile dessert topping",
+          "Our bite-sized mini marshmallows deliver the sweet taste and fluffy texture you know and love",
+          "Fat free and guilt free treat",
+          "Try using our marshmallows for hot chocolate or in a sweet potato casserole",
+          "Use Jet Puffed Mini Marshmallows to make a classic rice cereal treat",
+          "Packaged in a sealed bag for lasting freshness until you're ready to enjoy",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.8,
+        "ratings_total": 3000,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_def29209-5332-4109-9372-e81ae4f0e347",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_def29209-5332-4109-9372-e81ae4f0e347",
+          "https://target.scene7.com/is/image/Target/GUEST_0a192f85-86f8-4cab-b055-4619db97377c",
+          "https://target.scene7.com/is/image/Target/GUEST_c329a010-a91c-4e3f-b4f4-d6f5786c757e",
+          "https://target.scene7.com/is/image/Target/GUEST_4e075324-cb8e-4cf8-8281-7f6fcaace5bd",
+          "https://target.scene7.com/is/image/Target/GUEST_5ff73fed-edf6-4680-b28c-d9c41111a470",
+          "https://target.scene7.com/is/image/Target/GUEST_ddaf5a46-cd71-4f2c-a35b-5c0604edb4f8",
+          "https://target.scene7.com/is/image/Target/GUEST_209c180c-d1b5-4240-843a-5c2ec99568b6",
+          "https://target.scene7.com/is/image/Target/GUEST_77b8aeee-8417-41d4-befb-4ca2aef6cda4",
+          "https://target.scene7.com/is/image/Target/GUEST_8e4f6fce-46bf-4f9c-9dd9-914455bfc7ac",
+          "https://target.scene7.com/is/image/Target/GUEST_bcc41edb-6b48-4e87-9856-09b313f2b86b"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_ff6f11d3-4b08-4b19-806e-b4e54b8096fb_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_1cf0edd6-8f2c-41ee-af89-4a6078ca4cfd_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_31564016-b14e-4aaf-a96d-78f74992374e_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_b21bc893-dd8d-45f1-880c-496ab477a2cf_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.59,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.59,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 6,
+      "product": {
+        "title": "Peeps Halloween Marshmallow Pumpkins - 1.5oz/3ct",
+        "link": "https://www.target.com/p/peeps-halloween-marshmallow-pumpkins-1-5oz-3ct/-/A-82557684",
+        "tcin": "82557684",
+        "dpci": "055-00-0260",
+        "class_id": 0,
+        "department_id": 55,
+        "brand": "Peeps",
+        "brand_link": "https://www.target.com/b/peeps/-/N-55btu",
+        "feature_bullets": [
+          "PERFECT FOR HALLOWEEN - Great for your candy dish, Halloween decor, or trick-or-treat bowl!",
+          "FUN HALLOWEEN SHAPE - These PEEPS\u00ae Marshmallow Candies are shaped like Pumpkins!",
+          "EXPRESS YOUR PEEPSONALITY!\u00ae -  PEEPS\u00ae are perfect for eating, sharing, baking, crafting and more!",
+          "CLASSIC PEEPS\u00ae TASTE - Enjoy the classic Marshmallow flavor!",
+          "Gluten-free and Fat-free.",
+          "Only 47 calories per Pumpkin."
+        ],
+        "rating": 4.6,
+        "ratings_total": 95,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_8cd782f6-5a84-438e-b42c-97b2a1f062b5",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_8cd782f6-5a84-438e-b42c-97b2a1f062b5",
+          "https://target.scene7.com/is/image/Target/GUEST_ab2713f0-9db8-4227-95ab-57d10273c35c",
+          "https://target.scene7.com/is/image/Target/GUEST_1574dee3-b382-4086-a09f-4333501612c5",
+          "https://target.scene7.com/is/image/Target/GUEST_9013d931-6726-4988-9ee4-51b8652d8e59",
+          "https://target.scene7.com/is/image/Target/GUEST_28fe7b07-d13f-4812-8ceb-617e158759fb",
+          "https://target.scene7.com/is/image/Target/GUEST_c889ed7f-0093-4036-a0c7-34d876647a3e"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_471def61-d44a-4c3a-a181-ee6ac252bc74_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.29,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.29,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 7,
+      "product": {
+        "title": "Kraft Jet-Puffed Marshmallows - 16oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-marshmallows-16oz/-/A-12968781",
+        "tcin": "12968781",
+        "dpci": "261-08-0600",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 16 oz bag of Jet-Puffed Marshmallows",
+          "Perfect for holiday baking, try using our versatile marshmallows as a dessert ingredient",
+          "Cozy up with our marshmallows for hot chocolate this holiday season",
+          "Jet-Puffed Marshmallows are a delicious and versatile dessert topping",
+          "Classic marshmallows deliver the sweet taste and fluffy texture you know and love",
+          "Fat free snack contains 0 g of trans fat and 0 g of total fat per serving",
+          "Perfect marshmallows for smores",
+          "Use Jet Puffed Marshmallows to make a classic rice cereal treat",
+          "Try using our marshmallows for hot chocolate",
+          "Our marshmallows come in a sealed bag",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.2,
+        "ratings_total": 279,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_ba8367df-6f59-40ff-9d2c-924fb17e384b",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_ba8367df-6f59-40ff-9d2c-924fb17e384b",
+          "https://target.scene7.com/is/image/Target/GUEST_6a70221f-3124-4e85-b589-59884f76fff0",
+          "https://target.scene7.com/is/image/Target/GUEST_d1170253-8018-4e51-b132-b3409368a6f1",
+          "https://target.scene7.com/is/image/Target/GUEST_28f4e5c8-10cd-44af-9b10-1e73a5086964",
+          "https://target.scene7.com/is/image/Target/GUEST_fedbc357-6ca7-4bbb-a938-435ba2dd72e2",
+          "https://target.scene7.com/is/image/Target/GUEST_1c2451f5-ec4e-4666-8071-62bb637a5cb3",
+          "https://target.scene7.com/is/image/Target/GUEST_339af316-347d-4dbb-ab5b-e56692b6601b",
+          "https://target.scene7.com/is/image/Target/GUEST_e8d3820c-467a-412f-acc3-06d9668ea1cb",
+          "https://target.scene7.com/is/image/Target/GUEST_0d1b7c94-8e06-48dc-b54c-ca51ca329af5",
+          "https://target.scene7.com/is/image/Target/GUEST_48074519-1a89-4268-8956-a44e33fa741e",
+          "https://target.scene7.com/is/image/Target/GUEST_3bcffd96-18a9-4dab-8634-c3241bc2ef7b",
+          "https://target.scene7.com/is/image/Target/GUEST_b05cf09e-d0ee-401d-b129-5728c38a1e27"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_11c6db08-3a95-479b-b09c-771e5e9753de_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.29,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.29,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 8,
+      "product": {
+        "title": "Kraft Jet-Puffed Marshmallow Creme - 7oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-marshmallow-creme-7oz/-/A-12968788",
+        "tcin": "12968788",
+        "dpci": "261-08-0265",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 7 oz jar of Jet-Puffed Marshmallow Creme",
+          "Perfect for holiday baking, try using our versatile marshmallow spread as a dessert ingredient",
+          "Use marshmallow creme to create fudge for the holiday season",
+          "Jet-Puffed Marshmallow Creme is a delicious, versatile and easy dessert topping",
+          "Marshmallow creme delivers the sweet marshmallow taste you know and love with a creamy texture",
+          "Try adding marshmallow creme to hot chocolate, or use it with peanut butter for a Fluffernutter sandwich",
+          "Mix with chocolate sauce for a mouthwatering marshmallow ice cream topping",
+          "Packaged in a resealable jar",
+          "For easy removal of product, dip a spoon in hot water",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.8,
+        "ratings_total": 1873,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_073260cf-a70a-4c3c-9f6d-d52e2d8d9383",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_073260cf-a70a-4c3c-9f6d-d52e2d8d9383",
+          "https://target.scene7.com/is/image/Target/GUEST_9c71e3a2-7ae3-4d4a-95fa-f4882cbcb652",
+          "https://target.scene7.com/is/image/Target/GUEST_1a7c704b-2822-4b5d-b851-d165690235c4",
+          "https://target.scene7.com/is/image/Target/GUEST_618bf687-6f65-4667-8d14-685da997dd00",
+          "https://target.scene7.com/is/image/Target/GUEST_5c14b6c8-8b05-4caa-967d-5eabac87962e",
+          "https://target.scene7.com/is/image/Target/GUEST_7dade789-6b1a-47be-aba0-56d724424a66",
+          "https://target.scene7.com/is/image/Target/GUEST_410d7b40-e2fe-41ca-91f6-5287b984882c",
+          "https://target.scene7.com/is/image/Target/GUEST_74e99c3a-5c9f-4332-ae16-b9f3398b195d",
+          "https://target.scene7.com/is/image/Target/GUEST_a72a13cb-9cfe-41a7-8207-143c4315151a"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_11c6db08-3a95-479b-b09c-771e5e9753de_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.69,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.69,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 9,
+      "product": {
+        "title": "Kraft Jet-Puffed Mini Marshmallows - 16oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-mini-marshmallows-16oz/-/A-12968782",
+        "tcin": "12968782",
+        "dpci": "261-08-0601",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 16 oz bag of Jet-Puffed Mini Marshmallows",
+          "Perfect for holiday baking, try using our versatile mini marshmallows as a dessert ingredient",
+          "Cozy up with our mini marshmallows for hot chocolate this holiday season",
+          "Jet-Puffed Mini Marshmallows are a delicious and versatile dessert topping",
+          "Our bite-sized mini marshmallows deliver the sweet taste and fluffy texture you know and love",
+          "Fat free and guilt free treat",
+          "Try using our marshmallows for hot chocolate or in a sweet potato casserole",
+          "Use Jet Puffed Mini Marshmallows to make a classic rice cereal treat",
+          "Packaged in a sealed bag",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.8,
+        "ratings_total": 1438,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_3d6dbbca-c1c9-47c5-9821-bfd233a2e54e",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_3d6dbbca-c1c9-47c5-9821-bfd233a2e54e",
+          "https://target.scene7.com/is/image/Target/GUEST_7eca4b2a-8a8f-4a78-9ec3-d42eb1e7bf94",
+          "https://target.scene7.com/is/image/Target/GUEST_53c7a5a2-433a-42f0-877b-0c97539e8ba0",
+          "https://target.scene7.com/is/image/Target/GUEST_619e1edd-a220-4098-9352-41658bbbfcbc",
+          "https://target.scene7.com/is/image/Target/GUEST_25dbebdf-6e7d-444f-85a2-95e0212d4d1d",
+          "https://target.scene7.com/is/image/Target/GUEST_de407bbe-a9fe-425e-b564-1f24383a12db",
+          "https://target.scene7.com/is/image/Target/GUEST_33693e84-83f4-477f-9bf8-9c18d895c335",
+          "https://target.scene7.com/is/image/Target/GUEST_5703c461-5c08-4fd7-badf-6bd711684060",
+          "https://target.scene7.com/is/image/Target/GUEST_2403fa75-d91e-4932-b5be-34d0a9a45b77",
+          "https://target.scene7.com/is/image/Target/GUEST_86ef05e9-9999-434c-9b94-3114f21eed16",
+          "https://target.scene7.com/is/image/Target/GUEST_7cc5190b-3ab2-498e-91e8-61029e30150b",
+          "https://target.scene7.com/is/image/Target/GUEST_5c6598eb-5e0a-4f15-b873-792c267f75fc"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_ff6f11d3-4b08-4b19-806e-b4e54b8096fb_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_1cf0edd6-8f2c-41ee-af89-4a6078ca4cfd_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_31564016-b14e-4aaf-a96d-78f74992374e_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_b21bc893-dd8d-45f1-880c-496ab477a2cf_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 2.29,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 2.29,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 10,
+      "product": {
+        "title": "Kraft Lucky Charms Marshmallows-7oz",
+        "link": "https://www.target.com/p/kraft-lucky-charms-marshmallows-7oz/-/A-54538256",
+        "tcin": "54538256",
+        "dpci": "261-08-0215",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "7oz bag of Jet-Puffed Lucky Charms Magically Delicious Marshmallows offer a fun and magical twist to snack time and desserts",
+          "Jet-Puffed Lucky Charms Magically Delicious Marshmallows are a versatile dessert topping or snack",
+          "Our clovers, hearts, blue moons, red balloons and horseshoes shaped marshmallows deliver the same sweet taste and fluffy texture as regular Jet-Puffed Marshmallows",
+          "You can use Jet-Puffed marshmallows to make s'mores, rice cereal treat and also top it on hot chocolate and ice cream",
+          "Jet-Puffed Lucky Charms Marshmallows come in a sealed pouch"
+        ],
+        "rating": 3.6,
+        "ratings_total": 735,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_8c0618de-7cfb-4b33-bb7f-089757dc0518",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_8c0618de-7cfb-4b33-bb7f-089757dc0518",
+          "https://target.scene7.com/is/image/Target/GUEST_3e2baa75-111f-4e22-b2ae-85100298da45",
+          "https://target.scene7.com/is/image/Target/GUEST_5f8816af-6262-4307-a446-0a8294beab2b",
+          "https://target.scene7.com/is/image/Target/GUEST_3a63a178-4590-4522-95f3-0dde67857ebc",
+          "https://target.scene7.com/is/image/Target/GUEST_501416ad-9c5a-4307-9e3e-e2a0116b13b7",
+          "https://target.scene7.com/is/image/Target/GUEST_bd6432a0-bfcc-451b-b6c9-063e98f1b5e6",
+          "https://target.scene7.com/is/image/Target/GUEST_baa7eabd-b143-41fb-b613-a0fc9fe16385",
+          "https://target.scene7.com/is/image/Target/GUEST_2d2989b4-f921-457d-bcc8-8048659274cb",
+          "https://target.scene7.com/is/image/Target/GUEST_2bc0c6bf-29ef-4b3f-a889-99749bab5a74",
+          "https://target.scene7.com/is/image/Target/GUEST_c79b6859-89c4-4cd2-b52e-4028531e71c8",
+          "https://target.scene7.com/is/image/Target/GUEST_dcf6ea55-95cd-461c-b9b3-55af7135f261",
+          "https://target.scene7.com/is/image/Target/GUEST_f07c6f74-fff6-4422-9053-eb21a25eca7d"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 11,
+      "product": {
+        "title": "Kraft Jet-Puffed Jumbo Extra Large Marshmallows - 24oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-jumbo-extra-large-marshmallows-24oz/-/A-13302370",
+        "tcin": "13302370",
+        "dpci": "261-08-0190",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "One 24 oz bag of Jet-Puffed Jumbo Extra Large Marshmallows",
+          "Perfect for holiday baking, try using our versatile marshmallows as a dessert ingredient",
+          "Cozy up with our jumbo marshmallows for hot chocolate this holiday season",
+          "Jet-Puffed Jumbo Extra Large Marshmallows are a delicious and versatile dessert topping",
+          "Jumbo marshmallows deliver the sweet taste and fluffy texture you know and love",
+          "Fat free marshmallows contain 0 g of saturated fat and 0 g of total fat per serving",
+          "Perfect marshmallows for smores",
+          "Use Jet Puffed Marshmallows to make a classic rice cereal treat",
+          "Try using our marshmallows for hot chocolate",
+          "Our marshmallows come in a sealed bag",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.8,
+        "ratings_total": 3422,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_bea06150-a699-4600-820d-a5ce38a25a18",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_bea06150-a699-4600-820d-a5ce38a25a18",
+          "https://target.scene7.com/is/image/Target/GUEST_0e99830e-c4a6-45e3-b594-8adc542a07d3",
+          "https://target.scene7.com/is/image/Target/GUEST_02174e5c-c1c1-4ab0-9c11-e428cfd75114",
+          "https://target.scene7.com/is/image/Target/GUEST_01846b7a-1725-42d9-9d17-753fa822a009",
+          "https://target.scene7.com/is/image/Target/GUEST_4de9af47-da7c-41d8-94bd-5cbd201731f9",
+          "https://target.scene7.com/is/image/Target/GUEST_42fc21c8-3b42-49ed-ad31-e001a02b319c",
+          "https://target.scene7.com/is/image/Target/GUEST_1539c2d7-3cd4-48dc-8cd7-639dfa199ea7",
+          "https://target.scene7.com/is/image/Target/GUEST_48167792-764a-4daa-abc5-58f8885c4e77",
+          "https://target.scene7.com/is/image/Target/GUEST_87b8acc4-9cf2-4043-9c4c-355a4220823c",
+          "https://target.scene7.com/is/image/Target/GUEST_dcdb92d9-cbd7-4372-929b-33c2f08e0149",
+          "https://target.scene7.com/is/image/Target/GUEST_d91885e6-14cd-46d7-9d84-f778dca658ed",
+          "https://target.scene7.com/is/image/Target/GUEST_8dcd02d1-a102-40bd-a071-5999c4551ad9"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_11c6db08-3a95-479b-b09c-771e5e9753de_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 3.19,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 3.19,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 12,
+      "product": {
+        "title": "Kit Kat Halloween Witches Brew Marshmallow Flavored Cr&#232;me Wafers Snack Size - 9.8oz",
+        "link": "https://www.target.com/p/kit-kat-halloween-witches-brew-marshmallow-flavored-cr-232-me-wafers-snack-size-9-8oz/-/A-79687767",
+        "tcin": "79687767",
+        "dpci": "055-00-0138",
+        "class_id": 0,
+        "department_id": 55,
+        "brand": "Kit Kat",
+        "brand_link": "https://www.target.com/b/kit-kat/-/N-56090",
+        "feature_bullets": [
+          "Contains one (1) 9.8-ounce bag of KIT KAT\u00ae Witch's Brew Marshmallow-Flavored Creme Snack Size Wafer Candy Bars",
+          "Fill snack drawers, lunch boxes and candy dishes all season long with decorative marshmallow-flavored creme and wafer KIT KAT\u00ae candy bars",
+          "Kosher-certified, snack-size marshmallow-flavored creme and wafer candy bars individually wrapped for lasting freshness and witchy festivities",
+          "Take a break from the tricks by giving out KIT KAT\u00ae wafer and marshmallow-flavored creme candy treats during fall parties and trick-or-treat nights",
+          "Place a whole or chopped snack-size KIT KAT\u00ae candy bar on top of cookies or brownies you bake for a sweet green treat sure to grab attention and become everyone's new favorite"
+        ],
+        "rating": 4.3,
+        "ratings_total": 174,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_f677c3af-50b3-49ee-8def-8a94826a4304",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_f677c3af-50b3-49ee-8def-8a94826a4304",
+          "https://target.scene7.com/is/image/Target/GUEST_1df0b587-baca-4354-a89d-618ab809f6b5",
+          "https://target.scene7.com/is/image/Target/GUEST_04e60dac-a33a-454b-8928-f819857e309a",
+          "https://target.scene7.com/is/image/Target/GUEST_a62a0c3e-67cd-4cee-87db-be207faba600",
+          "https://target.scene7.com/is/image/Target/GUEST_ae5e9cdc-a240-486e-babd-cf79944dbbec",
+          "https://target.scene7.com/is/image/Target/GUEST_19a76536-cf12-47cc-8ecc-73c6928cd639",
+          "https://target.scene7.com/is/image/Target/GUEST_1d4727a2-566e-434e-89d4-08f7fbc2bae9",
+          "https://target.scene7.com/is/image/Target/GUEST_db4b8435-cd97-42e2-b79d-91e3a4c45fe6"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4.79,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4.79,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 13,
+      "product": {
+        "title": "Kraft Jet-Puffed Bits Vanilla Marshmallows - 3oz",
+        "link": "https://www.target.com/p/kraft-jet-puffed-bits-vanilla-marshmallows-3oz/-/A-14769087",
+        "tcin": "14769087",
+        "dpci": "261-08-0163",
+        "class_id": 8,
+        "department_id": 261,
+        "brand": "Kraft",
+        "brand_link": "https://www.target.com/b/kraft/-/N-5scoh",
+        "feature_bullets": [
+          "3 oz bottle of Jet-Puffed Vanilla Marshmallow Bits",
+          "Try topping your cereal or ice cream sundaes with our crunchy marshmallow bits",
+          "Our crunchy mini marshmallow bits deliver the same sweet taste as regular Jet-Puffed Mini Marshmallows",
+          "Fat free marshmallow treat contains 0 g. of total fat and no sodium per serving",
+          "Try them in your favorite recipes for added yumminess",
+          "Vanilla marshmallow bits are a delicious hot chocolate topping",
+          "Packaged in a sealed bottle until you're ready to enjoy",
+          "SNAP & EBT eligible food item"
+        ],
+        "rating": 4.7,
+        "ratings_total": 458,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_fa7eebb1-1f21-47c1-81f2-6b13c02a9ac3",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_fa7eebb1-1f21-47c1-81f2-6b13c02a9ac3",
+          "https://target.scene7.com/is/image/Target/GUEST_7b3fa71f-54d4-4ec4-94e8-5e7ace77579f",
+          "https://target.scene7.com/is/image/Target/GUEST_785b7b64-af02-43f2-9896-209d1efffda0",
+          "https://target.scene7.com/is/image/Target/GUEST_7664ebe8-afc3-4532-831f-79a15c564567",
+          "https://target.scene7.com/is/image/Target/GUEST_d5643127-13cf-4bca-9315-0f586c49368d",
+          "https://target.scene7.com/is/image/Target/GUEST_6030a93a-745d-468f-b660-8294c0098dc3",
+          "https://target.scene7.com/is/image/Target/GUEST_7effbf25-8e49-40e4-b32e-15fd7a275b79",
+          "https://target.scene7.com/is/image/Target/GUEST_723b4550-932b-48a9-9988-bf29bfdb341a",
+          "https://target.scene7.com/is/image/Target/GUEST_fbdefc08-794b-48a0-bdd1-8ac4757f84bb",
+          "https://target.scene7.com/is/image/Target/GUEST_faf3823d-03fe-4ea6-8c54-4fed027bc8f8",
+          "https://target.scene7.com/is/image/Target/GUEST_f31dfacd-269c-4952-b63d-dc363c2a523d",
+          "https://target.scene7.com/is/image/Target/GUEST_4ea69350-84b7-402f-a906-c51d6b060d05"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_11c6db08-3a95-479b-b09c-771e5e9753de_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 14,
+      "product": {
+        "title": "Halloween Witch&#39;s Brew Marshmallow Topper - 3.2oz/4ct - Favorite Day&#8482;",
+        "link": "https://www.target.com/p/halloween-witch-39-s-brew-marshmallow-topper-3-2oz-4ct-favorite-day-8482/-/A-87550093",
+        "tcin": "87550093",
+        "dpci": "055-00-0601",
+        "class_id": 0,
+        "department_id": 55,
+        "brand": "Favorite Day",
+        "brand_link": "https://www.target.com/b/favorite-day/-/N-q643lewlzpu",
+        "feature_bullets": [
+          "Fun activities to make your hot cocoa even more special",
+          "Spooky Halloween-inspired colors and flavors",
+          "Sure to be a hit with all ages",
+          "Perfect for parties"
+        ],
+        "rating": 5,
+        "ratings_total": 9,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_831bd161-dc54-4f3d-957d-7247006c5bbf",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_831bd161-dc54-4f3d-957d-7247006c5bbf",
+          "https://target.scene7.com/is/image/Target/GUEST_e56d40bb-aaed-4e10-88a4-0b547d5ef9b1",
+          "https://target.scene7.com/is/image/Target/GUEST_b3182e3a-829b-4985-8948-9b25e8b18c8f"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 4,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 4,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 15,
+      "product": {
+        "title": "Joyva Chocolate Covered Marshmallow Twists 9oz",
+        "link": "https://www.target.com/p/joyva-chocolate-covered-marshmallow-twists-9oz/-/A-47088707",
+        "tcin": "47088707",
+        "dpci": "212-28-0299",
+        "class_id": 28,
+        "department_id": 212,
+        "brand": "Joyva",
+        "brand_link": "https://www.target.com/b/joyva/-/N-lvppz",
+        "feature_bullets": [
+          "Gluten Free",
+          "Dairy Free",
+          "Kosher/Parve",
+          "Kosher for Passover",
+          "Fish Gelatin",
+          "Handmade in Brooklyn, NY"
+        ],
+        "rating": 3.6,
+        "ratings_total": 43,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_22bd8f79-533d-4d32-8b85-86db74fd649f",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_22bd8f79-533d-4d32-8b85-86db74fd649f",
+          "https://target.scene7.com/is/image/Target/GUEST_7c59f4ea-cbd5-4854-b2a5-42f6f95d887d",
+          "https://target.scene7.com/is/image/Target/GUEST_622bf3ef-d595-43d6-82bc-eb34bdca52d0"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 5.39,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 5.39,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 16,
+      "product": {
+        "title": "Marshmallow Furniture Flip Open Sofa - Mickey Mouse",
+        "link": "https://www.target.com/p/marshmallow-furniture-flip-open-sofa-mickey-mouse/-/A-82243672",
+        "tcin": "82243672",
+        "dpci": "091-15-0228",
+        "class_id": 15,
+        "department_id": 91,
+        "brand": "Marshmallow Furniture",
+        "brand_link": "https://www.target.com/b/marshmallow-furniture/-/N-q643lezikq2",
+        "feature_bullets": [
+          "Sofa ships compressed in an airtight compact box. Remove from packaging & watch it grow! Gently shake, fluff, and massage your sofa to help recover its original shape",
+          "The 2-in-1 Flip Open Sofa is the perfectly sized sofa/chair for toddlers to give them a spot they can call their own while they read, eat snacks, watch TV, fold out into a lounger and play or take a nap.",
+          "Made of lightweight foam, kids will love to move it around from room to room themselves, flipping it open into a bed or folding it back into a sofa.",
+          "Polyester fabric slipcover features a safety zipper without the traditional zipper pull and is machine washable. As a sofa stands 15\" high, 29\" wide, and 16\" deep or extends out to 39\" long as a lounger.",
+          "Recommended for kids ages 18 months and up with a 100 pound weight capacity and one child seating capacity."
+        ],
+        "rating": 4.1,
+        "ratings_total": 43,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_0805dad7-6b7b-4209-a31c-b121ce64bddb",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_0805dad7-6b7b-4209-a31c-b121ce64bddb",
+          "https://target.scene7.com/is/image/Target/GUEST_0aea0dae-bea7-4682-8878-de3215964cbd",
+          "https://target.scene7.com/is/image/Target/GUEST_283bd3cf-43d6-4423-8427-ddffb4f4ad14",
+          "https://target.scene7.com/is/image/Target/GUEST_1f0bbd67-6f6c-4a75-8566-339dd1e28981",
+          "https://target.scene7.com/is/image/Target/GUEST_c7321af3-7a23-4642-b2c6-1d578f45da98",
+          "https://target.scene7.com/is/image/Target/GUEST_7db302ca-5fc1-4f87-8f8c-17d9ca15614a",
+          "https://target.scene7.com/is/image/Target/GUEST_493d6c17-a4b0-4da9-9542-b9be09702877",
+          "https://target.scene7.com/is/image/Target/GUEST_af203c68-07dc-4434-94df-6142a9b64148",
+          "https://target.scene7.com/is/image/Target/GUEST_a6171193-14fb-4490-8572-000ce4ad7704",
+          "https://target.scene7.com/is/image/Target/GUEST_95b0457e-f0c1-4bc8-ab60-193ae382dbb0"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_c62d9706-1f08-4c58-b88c-aa524cc956e3_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          },
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_25629c04-103d-43d5-a89d-f0ae5efddbf7_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 49.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 49.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 17,
+      "product": {
+        "title": "Marshmallow Furniture Flip Open Sofa - Cocomelon",
+        "link": "https://www.target.com/p/marshmallow-furniture-flip-open-sofa-cocomelon/-/A-85787103",
+        "tcin": "85787103",
+        "dpci": "091-15-0170",
+        "class_id": 15,
+        "department_id": 91,
+        "brand": "Marshmallow Furniture",
+        "brand_link": "https://www.target.com/b/marshmallow-furniture/-/N-q643lezikq2",
+        "feature_bullets": [
+          "Give your little one their own exclusive lounging sofa with this perfectly sized compact flip-open couch with a fun & colorful design crafted from durable and comfy foam.",
+          "Sofa ships compressed in an airtight compact box. Remove from packaging & watch it grow! Gently shake, fluff, and massage your sofa to help recover its original shape, which may take 1-3 days.",
+          "Innovative flip-open 2-in-1 construction combines couch & sleeper bed for lounging, sitting, & napping. Sofa dimensions: 15&quot;h, 29&quot;w, and 16\u201dd. Flips open to a 3ft lounger.",
+          "Recommended for kids ages 18 months and up with a 100 pound weight capacity and one child seating capacity.",
+          "Polyester fabric slipcover features a safety zipper without the traditional zipper pull and is machine washable"
+        ],
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_f4229e18-ac14-4279-89fb-387a0215a02d",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_f4229e18-ac14-4279-89fb-387a0215a02d",
+          "https://target.scene7.com/is/image/Target/GUEST_a947f95c-f872-4e25-92df-16d21cead567",
+          "https://target.scene7.com/is/image/Target/GUEST_d1bef62c-1a60-43ea-9f38-f88f9f77b50d",
+          "https://target.scene7.com/is/image/Target/GUEST_e7a318ac-0f85-4e6f-a4be-8d66d8682d09",
+          "https://target.scene7.com/is/image/Target/GUEST_803277b4-4210-4623-9013-aead57dd6efd",
+          "https://target.scene7.com/is/image/Target/GUEST_4c802274-60f6-4e24-9fd8-3a11275d672c",
+          "https://target.scene7.com/is/image/Target/GUEST_1f31d345-8189-4691-81a7-672a18edb1cb",
+          "https://target.scene7.com/is/image/Target/GUEST_a5013657-f7f2-4f7c-8258-7e3b675fc855"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_efe5c0fd-ef0f-4cbc-a65b-d4465086f117_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 49.99,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 49.99,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 18,
+      "product": {
+        "title": "Holiday Dark Chocolaty Hot Cocoa Toppers with Salted Caramel - 2.4oz - Favorite Day&#8482;",
+        "link": "https://www.target.com/p/holiday-dark-chocolaty-hot-cocoa-toppers-with-salted-caramel-2-4oz-favorite-day-8482/-/A-88277465",
+        "tcin": "88277465",
+        "dpci": "055-03-1375",
+        "class_id": 3,
+        "department_id": 55,
+        "brand": "Favorite Day",
+        "brand_link": "https://www.target.com/b/favorite-day/-/N-q643lewlzpu",
+        "rating": 0,
+        "ratings_total": 0,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_0033bad0-fe15-4d0b-9b6b-e13f745305fe",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_0033bad0-fe15-4d0b-9b6b-e13f745305fe",
+          "https://target.scene7.com/is/image/Target/GUEST_854a60fc-d980-4ab5-bf08-773726cab12d",
+          "https://target.scene7.com/is/image/Target/GUEST_c7c8b78d-e6d0-4c85-8fb4-d94d16b3ccdf"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 5,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 5,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 19,
+      "product": {
+        "title": "Marshmallow Furniture Kids 2-in-1 Flip Open Comfortable Foam Compressed Lounging Sofa Chair and Extendable Sleeper Bed, Mickey Mouse",
+        "link": "https://www.target.com/p/marshmallow-furniture-kids-2-in-1-flip-open-comfortable-foam-compressed-lounging-sofa-chair-and-extendable-sleeper-bed-mickey-mouse/-/A-79858417",
+        "tcin": "79858417",
+        "class_id": 8,
+        "department_id": 249,
+        "brand": "Marshmallow Furniture",
+        "brand_link": "https://www.target.com/b/marshmallow-furniture/-/N-q643lezikq2",
+        "feature_bullets": [
+          "CHILDREN'S SOFA: Children's 2-in-1 flip open couch perfect for sleeping on, sitting on, and enjoying playtime throughout the day; Compact size at (L x W x H) 16 x 29.25 x 14.75 inches",
+          "COMPRESSED FOAM: Comfortable foam material provides extra cushioning for your kids as they relax and read their favorite books",
+          "SLEEPER BED: Folds out into the perfect-sized bed so when your child is ready for naptime, they won't have to go far",
+          "COMPACT DESIGN: Portable and lightweight, at 2.76 pounds, so they can move it into their favorite rooms as well; Great gift for youngsters ages 18 months and older",
+          "MACHINE WASHABLE: Disney's The Little Mermaid-themed cover is easy to remove and machine washable, so you don't have to worry about spills or dirt"
+        ],
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_273a2f3e-0c9f-4c4d-9864-31ed14a42978",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_273a2f3e-0c9f-4c4d-9864-31ed14a42978",
+          "https://target.scene7.com/is/image/Target/GUEST_78d7f3aa-dbb3-4e45-bc24-138094c75f6d",
+          "https://target.scene7.com/is/image/Target/GUEST_7b93f0cf-de96-4f20-b944-d908f27888ba",
+          "https://target.scene7.com/is/image/Target/GUEST_ddac0e56-323c-4d12-b972-88c2442087fe",
+          "https://target.scene7.com/is/image/Target/GUEST_dd1a3ba6-7dcd-4517-a6b0-e429dd80ce56"
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 69.89,
+          "currency": "USD",
+          "symbol": "$",
+          "regular_price": 93.99
+        },
+        "all_offers": [
+          {
+            "price": 69.89,
+            "currency": "USD",
+            "symbol": "$",
+            "regular_price": 93.99
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "3p"
+      },
+      "seller": {
+        "name": "Spreetail",
+        "id": "10000320"
+      }
+    },
+    {
+      "position": 20,
+      "product": {
+        "title": "Peeps Halloween Marshmallow Ghosts - 1.5oz/3ct",
+        "link": "https://www.target.com/p/peeps-halloween-marshmallow-ghosts-1-5oz-3ct/-/A-82557828",
+        "tcin": "82557828",
+        "dpci": "055-00-0259",
+        "class_id": 0,
+        "department_id": 55,
+        "brand": "Peeps",
+        "brand_link": "https://www.target.com/b/peeps/-/N-55btu",
+        "feature_bullets": [
+          "PERFECT FOR HALLOWEEN - Great for your candy dish, Halloween decor, or trick-or-treat bowl!",
+          "FUN HALLOWEEN SHAPE - These PEEPS\u00ae Marshmallow Candies are shaped like Ghosts!",
+          "EXPRESS YOUR PEEPSONALITY!\u00ae -  PEEPS\u00ae are perfect for eating, sharing, baking, crafting and more!",
+          "CLASSIC PEEPS\u00ae TASTE - Enjoy the classic Marshmallow flavor!",
+          "Gluten-free and Fat-free.",
+          "Only 47 calories per Ghost."
+        ],
+        "rating": 4.7,
+        "ratings_total": 101,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_fe50090d-1ab4-4fc7-b928-784544d83914",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_fe50090d-1ab4-4fc7-b928-784544d83914",
+          "https://target.scene7.com/is/image/Target/GUEST_3338d971-3337-45b1-92c4-2f092f3b33ba",
+          "https://target.scene7.com/is/image/Target/GUEST_11999d7d-ccfd-4c63-a25d-6eedcac3c359",
+          "https://target.scene7.com/is/image/Target/GUEST_c355489b-e165-4271-91a2-6cba31b95822",
+          "https://target.scene7.com/is/image/Target/GUEST_63b7431e-9c07-448c-adfa-458938b15d2e",
+          "https://target.scene7.com/is/image/Target/GUEST_ac72edf7-dc74-4714-909f-bd32920a4ce5"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_471def61-d44a-4c3a-a181-ee6ac252bc74_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.29,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.29,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    },
+    {
+      "position": 21,
+      "product": {
+        "title": "Peeps Halloween Marshmallow Monsters - 1.5oz/3ct",
+        "link": "https://www.target.com/p/peeps-halloween-marshmallow-monsters-1-5oz-3ct/-/A-82557668",
+        "tcin": "82557668",
+        "dpci": "055-00-0261",
+        "class_id": 0,
+        "department_id": 55,
+        "brand": "Peeps",
+        "brand_link": "https://www.target.com/b/peeps/-/N-55btu",
+        "feature_bullets": [
+          "PERFECT FOR HALLOWEEN - Great for your candy dish, Halloween decor, or trick-or-treat bowl!",
+          "FUN HALLOWEEN SHAPE - These PEEPS\u00ae Marshmallow Candies are shaped like Monsters!",
+          "EXPRESS YOUR PEEPSONALITY!\u00ae -  PEEPS\u00ae are perfect for eating, sharing, baking, crafting and more!",
+          "CLASSIC PEEPS\u00ae TASTE - Enjoy the classic Marshmallow flavor!",
+          "Gluten-free and Fat-free.",
+          "Only 47 calories per Monster."
+        ],
+        "rating": 4.7,
+        "ratings_total": 88,
+        "main_image": "https://target.scene7.com/is/image/Target/GUEST_a5399e31-8a41-458e-8d78-4922a6c6da48",
+        "images": [
+          "https://target.scene7.com/is/image/Target/GUEST_a5399e31-8a41-458e-8d78-4922a6c6da48",
+          "https://target.scene7.com/is/image/Target/GUEST_809aaf37-e76a-4b93-b4b8-f03a1d8eaa9a",
+          "https://target.scene7.com/is/image/Target/GUEST_65aa557e-adcc-495d-86c1-28ed06fe4e89",
+          "https://target.scene7.com/is/image/Target/GUEST_c3c7df24-a879-4a7b-8fb4-c212b1394076",
+          "https://target.scene7.com/is/image/Target/GUEST_a2c68b63-b37e-473b-89f3-1ae4d6f95412",
+          "https://target.scene7.com/is/image/Target/GUEST_5ff14728-a782-4487-88ff-d8a3024592fa"
+        ],
+        "videos": [
+          {
+            "link": "https://target.scene7.com/is/content/Target/GUEST_471def61-d44a-4c3a-a181-ee6ac252bc74_Flash9_Autox720p_2600k",
+            "type": "video/mp4"
+          }
+        ]
+      },
+      "offers": {
+        "primary": {
+          "price": 1.29,
+          "currency": "USD",
+          "symbol": "$"
+        },
+        "all_offers": [
+          {
+            "price": 1.29,
+            "currency": "USD",
+            "symbol": "$"
+          }
+        ]
+      },
+      "fulfillment": {
+        "type": "1p"
+      }
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.target.com/s?searchTerm=Marshmallows&sortBy=bestselling&Nao=0"
+    },
+    "total_pages": 1,
+    "total_results": 21
+  },
+  "categories": [
+    {
+      "name": "Grocery",
+      "id": "5xt1a"
+    },
+    {
+      "name": "Toys",
+      "id": "5xtb0"
+    },
+    {
+      "name": "Home",
+      "id": "5xtvd"
+    },
+    {
+      "name": "Holiday Shop",
+      "id": "4ydi5"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "id": "5xt85"
+    }
+  ],
+  "facets": [
+    {
+      "display_name": "Brand",
+      "name": "d_brand_all",
+      "values": [
+        {
+          "display_name": "Favorite Day",
+          "value": "favorite day",
+          "id": "q643lewlzpu"
+        },
+        {
+          "display_name": "Good & Gather",
+          "value": "good & gather",
+          "id": "yfqzk"
+        },
+        {
+          "display_name": "Joyva",
+          "value": "joyva",
+          "id": "lvppz"
+        },
+        {
+          "display_name": "Kit Kat",
+          "value": "kit kat",
+          "id": "56090"
+        },
+        {
+          "display_name": "Kraft",
+          "value": "kraft",
+          "id": "5scoh"
+        },
+        {
+          "display_name": "Marshmallow Furniture",
+          "value": "marshmallow furniture",
+          "id": "q643lezikq2"
+        },
+        {
+          "display_name": "Peeps",
+          "value": "peeps",
+          "id": "55btu"
+        },
+        {
+          "display_name": "Target Brands",
+          "value": "target brands",
+          "id": "xmf9o"
+        }
+      ]
+    },
+    {
+      "display_name": "Type",
+      "name": "d_item_type_all",
+      "values": [
+        {
+          "display_name": "Candy Bars",
+          "value": "candy bars",
+          "id": "h20t5"
+        },
+        {
+          "display_name": "Filled Chocolates",
+          "value": "filled chocolates",
+          "id": "al25lfgqaft"
+        },
+        {
+          "display_name": "Individually Wrapped Chocolates",
+          "value": "individually wrapped chocolates",
+          "id": "al25lf533qs"
+        },
+        {
+          "display_name": "Kids Sofas",
+          "value": "kids sofas",
+          "id": "al25lfklzf9"
+        },
+        {
+          "display_name": "Marshmallows",
+          "value": "marshmallows",
+          "id": "wf0fk"
+        }
+      ]
+    },
+    {
+      "display_name": "Dietary Needs",
+      "name": "d_dietary_needs",
+      "values": [
+        {
+          "display_name": "Gluten-free",
+          "value": "gluten-free",
+          "id": "b8gba"
+        },
+        {
+          "display_name": "Vegetarian",
+          "value": "vegetarian",
+          "id": "76zjq"
+        },
+        {
+          "display_name": "Fat Free",
+          "value": "fat free",
+          "id": "1yzh2"
+        },
+        {
+          "display_name": "Kosher",
+          "value": "kosher",
+          "id": "5zlgb"
+        }
+      ]
+    },
+    {
+      "display_name": "Deals",
+      "name": "d_deals",
+      "values": [
+        {
+          "display_name": "All Deals",
+          "value": "all deals",
+          "id": "akkos"
+        },
+        {
+          "display_name": "Buy and Save",
+          "value": "buy and save",
+          "id": "55e6t"
+        },
+        {
+          "display_name": "Sale",
+          "value": "sale",
+          "id": "5tdv0"
+        },
+        {
+          "display_name": "Weekly Ad",
+          "value": "weekly ad",
+          "id": "55dgn"
+        }
+      ]
+    },
+    {
+      "display_name": "FPO/APO",
+      "name": "d_apo_fpo",
+      "values": [
+        {
+          "display_name": "only eligible items",
+          "value": "only eligible items",
+          "id": "vu13f"
+        }
+      ]
+    },
+    {
+      "display_name": "Price",
+      "name": "d_pricerange",
+      "values": [
+        {
+          "display_name": "$0 - $15",
+          "value": "$0 - $15",
+          "id": "5zja2"
+        },
+        {
+          "display_name": "$25 - $50",
+          "value": "$25 - $50",
+          "id": "5zja4"
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "$50 - $100",
+          "id": "5zja5"
+        }
+      ]
+    },
+    {
+      "display_name": "Featured",
+      "name": "d_marketing",
+      "values": [
+        {
+          "display_name": "New",
+          "value": "new",
+          "id": "5ewil"
+        }
+      ]
+    }
+  ]
+}
